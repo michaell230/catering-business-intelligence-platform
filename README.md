@@ -1,187 +1,200 @@
-# 🍱 Dashboard Analitik Penjualan & Manajemen Pesanan Nabila Catering
-### Program Mahasiswa Berdampak — Studi Independen Bersertifikat PT Vinix Seven Aurum (Vinix7)
-**Disusun oleh:** Mahasiswa S1 Sains Data, Universitas Negeri Surabaya (UNESA)
+# Catering Business Intelligence & Operations Platform
+> An End-to-End Sales Analytics, Kitchen Workflow, and RFM Customer Segmentation Platform for Culinary Enterprises.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-
-## 📌 Ringkasan Proyek
-
-Repositori ini berisi sistem intelijen bisnis (*Business Intelligence*) dan otomasi analitik penjualan berbiaya Rp 0 (*Zero-Cost Data Pipeline*) yang dikembangkan untuk memodernisasi tata kelola operasional pada **UMKM Nabila Catering** (Jombang, Jawa Timur). 
-
-Sistem ini mentransformasikan alur pencatatan pesanan fisik kertas manual menjadi sistem digital terpadu, memantau omzet penjualan dan realisasi pesanan, mengawal antrean dapur (*kitchen workflow*), mengidentifikasi menu terlaris (*menu engineering*), serta melakukan segmentasi pelanggan **B2B (Institusi/Sekolah) vs B2C (Perorangan)** dengan model **RFM (*Recency, Frequency, Monetary*)**.
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Streamlit-red.svg)](https://streamlit.io)
+[![Data Engine](https://img.shields.io/badge/Engine-Pandas%20%7C%20Plotly-teal.svg)](https://pandas.pydata.org/)
+[![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20Cloud-success.svg)](#arsitektur-sistem)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ---
 
-## 📂 Struktur Direktori Proyek
+## Ringkasan Eksekutif
+
+Platform ini adalah sistem intelijen bisnis (*Business Intelligence*) dan manajemen operasional terintegrasi yang dirancang untuk industri jasa boga (*culinary & catering services*). Sistem ini mengotomasi siklus bisnis hulu-ke-hilir: mulai dari pencatatan pesanan kasir (*Order Intake*), pengendalian antrean dapur (*Kitchen Operations*), analitik kinerja finansial multi-periode, hingga pemodelan segmentasi pelanggan strategis berbasis algoritma **RFM (*Recency, Frequency, Monetary*)**.
+
+Dibangun di atas arsitektur data hibrida berbiaya pemeliharaan nol (*Zero-Cost Data Pipeline*), platform ini dapat beroperasi penuh secara lokal (offline) maupun terhubung langsung ke basis data awan (*Google Cloud Ecosystem*) secara real-time.
+
+### Metrik Sistem Terkelola:
+* **Volume Transaksi:** 1.200+ Pesanan Terdata
+* **Akumulasi Omzet:** Rp 1,77 Miliar
+* **Volume Produksi:** 67.500+ Porsi Hidangan
+* **Katalog Produk:** 26 Item Master Menu Aktif
+
+---
+
+## Arsitektur Sistem
+
+Platform dirancang modular menggunakan alur data terintegrasi:
 
 ```text
-Proyek Stupen/
-│
-├── .streamlit/
-│   ├── config.toml           # Konfigurasi antarmuka tema gelap & server Streamlit
-│   └── user_settings.json    # Menyimpan preferensi pengguna (mode sumber data & URL)
-│
-├── data/
-│   ├── historis_transaksi_catering.csv  # Basis data transaksi utama (1.200 baris riil 2025)
-│   └── master_menu.csv                  # Katalog referensi 26 menu makanan & harga satuan baku
-│
-├── notebooks/
-│   └── eda_analitik_nabila_catering.ipynb # Analisis eksplorasi data (EDA) & pemodelan RFM
-│
-├── scripts/
-│   └── validasi_data.py      # Skrip verifikasi integritas skema data & kalkulasi matematika
-│
-├── app.py                    # Aplikasi web dashboard interaktif Streamlit (6 Modul Utama)
-├── requirements.txt          # Daftar pustaka dependensi Python untuk instalasi
-├── .gitignore                # Berkas pengecualian Git agar berkas cache tidak terunggah
-└── README.md                 # Panduan komprehensif penggunaan dan dokumentasi sistem
+[ Front-end Order Intake ] ──► [ Storage Engine (Local CSV / Google Sheets) ]
+                                          │
+                                          ▼
+[ BI Dashboard Platform ] ◄── [ Analytics Engine (Pandas, Plotly, RFM) ]
+          │
+          └──► [ Data Mart Export (Power BI / Excel Ready) ]
 ```
 
-### Penjelasan Fungsi Berkas Utama:
-* **`app.py`**: Berkas inti aplikasi web. Memuat 6 tab analitik interaktif, grafik visualisasi Plotly, filter dinamis multi-dimensi, formulir pencatatan pesanan digital, serta integrasi webhook awan.
-* **`data/historis_transaksi_catering.csv`**: Basis data transaksi katering sepanjang tahun 2025 (1.200 transaksi, Rp 1,77 Miliar omzet).
-* **`data/master_menu.csv`**: Daftar master menu resmi (Paket Nasi, Lauk Satuan, Paket Acara/Tumpeng) lengkap dengan kode menu dan harga standar.
-* **`scripts/validasi_data.py`**: Utilitas terminal untuk memastikan tidak ada ID pesanan ganda, format tanggal seragam, dan perkalian omzet valid sebelum aplikasi dijalankan.
-* **`notebooks/eda_analitik_nabila_catering.ipynb`**: Lembar kerja riset sains data yang mendokumentasikan pembuktian matematis metrik finansial dan algoritma segmentasi pelanggan.
+1. **Transaction Capture:** Formulir pemesanan reaktif dengan kalkulasi otomatis dan proteksi baris ganda (*Upsert mechanism*).
+2. **Dual-Mode Data Engine:** Fleksibilitas peralihan instan antara *Local Storage* dan *Cloud Live Spreadsheet*.
+3. **Analytical Processing:** Pemrosesan agregasi omzet harian/mingguan/bulanan, perhitungan *lead time*, dan klasterisasi RFM.
+4. **Decision Support Dashboard:** Antarmuka visual analitik interaktif yang dioptimalkan untuk perangkat seluler maupun desktop.
 
 ---
 
-## 🧭 Fitur & Modul Dashboard (`app.py`)
+## Struktur Direktori
 
-Dashboard dirancang dengan 6 modul utama:
-1. **Ringkasan Finansial:** Scorecard metrik KPI (Total Omzet, Realisasi Selesai, Total Porsi Terjual, Average Order Value/AOV), grafik tren omzet fleksibel (**Harian, Mingguan, Bulanan**), serta diagram komposisi status pesanan.
-2. **Analisis Menu:** Peringkat 10 menu terlaris berdasarkan volume porsi (*volume drivers*), 10 menu penyumbang omzet terbesar (*revenue drivers*), dan peta panas (*Heatmap*) tren musiman kategori menu per bulan.
-3. **Antrean Dapur:** Pemantauan daftar pesanan yang sedang diproses (*lead time* pengerjaan dapur) dan tombol unduh berkas operasional kerja dapur (*Kitchen Work Order CSV*).
-4. **Segmentasi Pelanggan:** Pengelompokan pelanggan menggunakan model RFM. Memetakan sebaran pelanggan setia institusi (B2B) dan pembeli eceran/hajatan (B2C) yang dapat disesuaikan menurut rentang tanggal filter aktif.
-5. **Input Pesanan & Katalog Menu:** Formulir pencatatan pesanan masuk kasir (*Order Intake*) dengan fitur kalkulasi harga instan, fitur pembaruan status pesanan (*Upsert: update in-place* tanpa baris ganda), serta manajemen tambah/hapus menu makanan.
-6. **Panduan Sistem:** Panduan ringkas operasional sistem dan dokumentasi bagi staf katering.
-
----
-
-## 🌐 Panduan Sumber Data (Mode Ganda / Hybrid)
-
-Aplikasi mendukung mode ganda yang dapat dialihkan sewaktu-waktu melalui menu bilah samping (**Sidebar**):
-
-### 1. Mode Google Sheets (Cloud Live)
-Digunakan saat presentasi, pengawasan jarak jauh oleh pemilik usaha, atau pencatatan kolaboratif antar-perangkat secara daring.
-* **Cara Menggunakan:**
-  1. Pilih opsi **`Google Sheets`** di sidebar kiri.
-  2. Tempelkan (*paste*) URL Google Sheets Anda pada kotak input yang tersedia.
-* **Ketentuan Google Sheets:**
-  * Hak akses spreadsheet wajib diatur publik: **"Anyone with the link can view"** (*Siapa saja yang memiliki link dapat melihat*).
-  * Struktur tabel di Google Sheets **wajib memiliki 11 kolom baku** yang urutannya sesuai dengan ketentuan skema di bawah.
-* **Integrasi Otomatis (Google Apps Script):**
-  Agar pesanan yang diinput lewat dashboard langsung otomatis tertulis ke Google Sheets secara *real-time*, pasang skrip Web App di Google Sheets melalui menu *Extensions -> Apps Script* (kode dan tata caranya tersedia lengkap di Tab 5 sub-tab *Integrasi Apps Script*).
-
-### 2. Mode Lokal (File CSV)
-Digunakan untuk operasional kasir harian di lokasi dapur tanpa bergantung pada koneksi internet (*offline-ready*).
-* **Cara Menggunakan:**
-  1. Pilih opsi **`Lokal (CSV)`** di sidebar kiri.
-  2. Sistem akan membaca dan menyimpan langsung ke berkas `data/historis_transaksi_catering.csv`.
-* **Keunggulan:** Sangat cepat, tidak memerlukan izin akses cloud, dan data tersimpan aman di penyimpanan fisik komputer.
+```text
+catering-business-intelligence-platform/
+│
+├── .streamlit/
+│   ├── config.toml                     # Konfigurasi tema visual dan server Streamlit
+│   └── user_settings.json              # State persistensi preferensi sumber data
+│
+├── data/
+│   ├── historis_transaksi_catering.csv # Basis data historis transaksi utama
+│   └── master_menu.csv                 # Katalog master menu, kode produk, dan harga satuan
+│
+├── notebooks/
+│   └── eda_analitik_nabila_catering.ipynb # Lembar kerja analisis eksplorasi data (EDA) & RFM
+│
+├── scripts/
+│   └── validasi_data.py                # Utilitas audit integritas skema data & kalkulasi matematis
+│
+├── app.py                              # Entry-point aplikasi web dashboard utama
+├── requirements.txt                    # Dependensi paket Python lingkungan produksi
+├── .gitignore                          # Konfigurasi pengecualian direktori Git
+└── README.md                           # Dokumentasi teknis platform
+```
 
 ---
 
-## 📋 Ketentuan Skema Data (11 Kolom Baku)
+## Modul Analitik & Fungsionalitas
 
-Baik pada berkas CSV lokal maupun Google Sheets, kolom tabel transaksi **wajib mengikuti format standar berikut**:
+### 1. Ringkasan Kinerja Finansial
+* **Metrik Utama (KPIs):** Pemantauan *Total Omzet*, *Realisasi Omzet Selesai*, *Total Porsi Terjual*, dan *Average Order Value (AOV)*.
+* **Granularitas Waktu Fleksibel:** Grafik tren omzet yang dapat dialihkan secara dinamis antara agregasi **Harian**, **Mingguan**, dan **Bulanan**.
+* **Distribusi Status Transaksi:** Visualisasi komposisi status pesanan (*Selesai*, *Diproses*, *Dibatalkan*).
 
-| No | Nama Kolom | Tipe Data | Contoh Nilai | Keterangan |
+### 2. Analisis Menu (Menu Engineering)
+* **Volume vs Revenue Drivers:** Peringkat 10 menu dengan kuantitas porsi terbanyak versus 10 menu kontributor pendapatan terbesar.
+* **Seasonal Heatmap:** Matriks pola musiman pesanan per kategori menu (*Paket Nasi*, *Lauk Satuan*, *Paket Acara*) sepanjang periode kalender.
+
+### 3. Pemantauan Antrean Dapur & Operasional
+* **Work Order Queue:** Pengawalan pesanan berstatus *Diproses* untuk memastikan pemenuhan waktu persiapan (*Lead Time*).
+* **Ekspor Lembar Kerja:** Tombol unduh satu-klik berkas operasional dapur berformat CSV untuk staf produksi.
+
+### 4. Segmentasi Pelanggan (Customer Intelligence)
+* **Algoritma RFM:** Pengelompokan pelanggan berdasarkan keterkinian belanja (*Recency*), tingkat loyalitas (*Frequency*), dan nilai pengeluaran (*Monetary*).
+* **Klasifikasi Entitas:** Pemisahan otomatis antara klien institusi/sekolah (**B2B**) dan pelanggan perorangan (**B2C**).
+* **Filter Waktu Responsif:** Segmentasi dapat dievaluasi menurut rentang filter tanggal aktif maupun riwayat kumulatif.
+
+### 5. Input Pesanan & Manajemen Master Menu
+* **Pencatatan Pesanan (Order Intake):** Validasi input real-time, pencarian harga dinamis, dan kalkulasi tagihan otomatis.
+* **Pembaruan Data In-Place (Upsert):** Fitur edit pesanan yang langsung memperbarui baris bersangkutan tanpa menyebabkan duplikasi data finansial.
+* **Katalog Master Menu:** Antarmuka penambahan dan penghapusan item hidangan, kategori, serta pembaruan harga standar.
+
+### 6. Panduan Sistem
+* Dokumentasi internal yang disematkan langsung di dalam aplikasi untuk kemudahan operasional staf.
+
+---
+
+## Integrasi Sumber Data (Hybrid Architecture)
+
+Platform mendukung dua metode penyimpanan data yang dapat dipilih melalui bilah menu samping (*sidebar*):
+
+### Mode 1: Google Sheets (Cloud Live)
+Dirancang untuk pelaporan terpusat dan akses multi-pengguna via internet.
+* **Mekanisme Baca:** Menggunakan endpoint publik Google Visualization API (GViz) berkecepatan tinggi tanpa beban kuota berbayar.
+* **Mekanisme Tulis (Otomatis):** Mendukung webhook *Google Apps Script (Web App)* untuk menuliskan pesanan baru langsung ke spreadsheet online secara real-time.
+* **Ketentuan Akses:** Tautan Google Sheets wajib diatur dengan izin visibilitas: *"Anyone with the link can view"*.
+
+### Mode 2: Lokal (File CSV)
+Dirancang untuk keandalan operasional kasir harian di lokasi fisik tanpa ketergantungan jaringan internet.
+* **Mekanisme:** Operasi baca dan tulis langsung dieksekusi ke berkas `data/historis_transaksi_catering.csv`.
+* **Ketahanan:** Menyediakan cadangan (*backup*) data deterministik di penyimpanan lokal komputer.
+
+---
+
+## Skema Data Baku (Data Schema)
+
+Seluruh sumber data (baik CSV lokal maupun Google Sheets) wajib memenuhi struktur 11 kolom baku berikut:
+
+| No | Field | Tipe Data | Format / Nilai | Deskripsi |
 | :---: | :--- | :---: | :--- | :--- |
-| 1 | `ID_Pesanan` | Teks / String | `CTR1201` | Pengenal unik pesanan (tidak boleh duplikat). |
-| 2 | `Nama_Pemesan` | Teks / String | `MAN 2 Jombang` | Nama perorangan atau nama instansi/sekolah. |
-| 3 | `Tanggal_Pesanan` | Tanggal / Date | `2025-10-15` | Format baku: `YYYY-MM-DD`. |
-| 4 | `Tanggal_Selesai` | Tanggal / Date | `2025-10-17` | Tanggal acara/pengiriman (`YYYY-MM-DD`). |
-| 5 | `Kode_Menu` | Teks / String | `PN01` | Kode unik referensi menu katering. |
-| 6 | `Kategori_Pesanan` | Teks / String | `Paket Nasi` | Pilihan: *Paket Nasi*, *Lauk Satuan*, *Paket Acara*. |
-| 7 | `Nama_Menu` | Teks / String | `Nasi Kotak Ayam Kampung` | Nama hidangan yang dipesan. |
-| 8 | `Jumlah_Pesanan` | Angka Bulat | `50` | Total porsi / kotak yang dipesan. |
-| 9 | `Harga_Satuan` | Angka Bulat | `35000` | Harga per porsi dalam Rupiah (tanpa titik/koma). |
-| 10 | `Total_Penjualan` | Angka Bulat | `1750000` | Hasil kali `Jumlah_Pesanan` × `Harga_Satuan`. |
-| 11 | `Status_Pesanan` | Teks / String | `Selesai` | Status operasional: *Diproses* atau *Selesai*. |
+| 1 | `ID_Pesanan` | String | `CTR0001` | Kunci primer unik tiap transaksi |
+| 2 | `Nama_Pemesan` | String | Teks Bebas | Nama pelanggan individu atau institusi |
+| 3 | `Tanggal_Pesanan` | Date | `YYYY-MM-DD` | Tanggal pesanan masuk ke sistem |
+| 4 | `Tanggal_Selesai` | Date | `YYYY-MM-DD` | Tanggal pengiriman hidangan / acara |
+| 5 | `Kode_Menu` | String | `PN01`, `LS01`, `PA01` | Kode klasifikasi katalog hidangan |
+| 6 | `Kategori_Pesanan` | String | `Paket Nasi`, `Lauk Satuan`, `Paket Acara` | Kategori utama menu makanan |
+| 7 | `Nama_Menu` | String | Teks Bebas | Nama varian menu yang dipesan |
+| 8 | `Jumlah_Pesanan` | Integer | $\ge 1$ | Kuantitas porsi pesanan |
+| 9 | `Harga_Satuan` | Integer | Angka Numerik | Tarif per porsi dalam Rupiah |
+| 10 | `Total_Penjualan` | Integer | `Jumlah_Pesanan` × `Harga_Satuan` | Total nominal nilai transaksi |
+| 11 | `Status_Pesanan` | String | `Diproses` atau `Selesai` | Status operasional pesanan |
 
 ---
 
-## ⚙️ Cara Menjalankan Aplikasi di Komputer Lokal
+## Panduan Instalasi & Menjalankan Sistem
 
-### 1. Prasyarat Sistem
-* Python versi 3.10 atau yang lebih baru.
-* Git terpasang di komputer.
+### 1. Prasyarat Lingkungan
+* Python 3.10 atau versi di atasnya
+* Git CLI
 
-### 2. Langkah Instalasi & Menjalankan
+### 2. Langkah Instalasi
 
-1. **Buka Terminal / Command Prompt / PowerShell:**
-   Masuk ke direktori proyek:
+1. **Kloning Repositori:**
    ```bash
-   cd "D:\ckone data\Stupen Vinix7\Proyek Stupen"
+   git clone https://github.com/USERNAME/catering-business-intelligence-platform.git
+   cd catering-business-intelligence-platform
    ```
 
-2. **(Opsional) Buat & Aktifkan Virtual Environment:**
+2. **Siapkan Virtual Environment (Disarankan):**
    ```bash
    python -m venv venv
-   # Di Windows:
+   # Windows:
    venv\Scripts\activate
-   # Di Mac/Linux:
+   # macOS / Linux:
    source venv/bin/activate
    ```
 
-3. **Pasang Dependensi Pustaka Python:**
+3. **Instalasi Dependensi:**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Uji Validitas Integritas Data:**
+4. **Verifikasi Integritas Data:**
+   Jalankan skrip audit untuk memastikan kepatuhan skema dan kalkulasi numerik:
    ```bash
    python scripts/validasi_data.py
    ```
-   *Pastikan hasil validasi menampilkan seluruh indikator `[OK]`.*
 
-5. **Jalankan Dashboard Streamlit:**
+5. **Jalankan Aplikasi:**
    ```bash
    streamlit run app.py
    ```
-   Aplikasi akan otomatis terbuka pada peramban web di alamat: `http://localhost:8501`.
+   Akses antarmuka melalui peramban di `http://localhost:8501`.
 
 ---
 
-## 🚀 Panduan Deployment ke GitHub & Streamlit Community Cloud
+## Panduan Deployment ke Cloud
 
-### Langkah 1: Push Repositori ke GitHub
-1. Inisialisasi repositori Git dan unggah berkas:
+Platform siap di-deploy secara instan ke **Streamlit Community Cloud**:
+
+1. Pastikan seluruh perubahan kode telah di-commit ke repositori GitHub:
    ```bash
-   git init
    git add .
-   git commit -m "feat: inisialisasi sistem analitik dan BI Nabila Catering"
+   git commit -m "feat: production release of catering BI platform"
+   git push origin main
    ```
-2. Hubungkan ke repositori GitHub Anda dan lakukan push:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/USERNAME_ANDA/NAMA_REPOSITORY.git
-   git push -u origin main
-   ```
-
-### Langkah 2: Deploy ke Streamlit Community Cloud (Gratis)
-1. Buka laman **[share.streamlit.io](https://share.streamlit.io)** dan masuk (*login*) menggunakan akun GitHub Anda.
-2. Klik tombol **New app**.
-3. Atur konfigurasi deployment:
-   * **Repository:** Pilih repositori GitHub yang baru saja di-push.
-   * **Branch:** `main`
-   * **Main file path:** `app.py`
-4. Klik **Deploy!** Dalam kurun waktu 1–2 menit, dashboard Anda akan aktif online dengan URL publik yang dapat diakses dari smartphone maupun laptop.
+2. Buka portal **[share.streamlit.io](https://share.streamlit.io)** dan hubungkan dengan akun GitHub Anda.
+3. Klik **New app**, pilih repositori proyek ini, atur Branch ke `main`, dan set Main file path ke `app.py`.
+4. Klik **Deploy**. Aplikasi akan online dengan URL publik dalam hitungan menit.
 
 ---
 
-## 🎓 Relevansi Konversi Akademik (10 SKS UNESA)
-Proyek ini memenuhi capaian pembelajaran pada 5 mata kuliah konversi:
-* **Perencanaan Stupen (2 SKS):** Analisis kebutuhan mitra, perumusan WBS, dan arsitektur data *zero-cost*.
-* **Evaluasi Stupen (2 SKS):** Validasi integritas data, pengujian performa katering, dan audit metrik finansial.
-* **Bisnis Digital (2 SKS):** Transformasi digital kasir, pemodelan *Customer Lifetime Value*, segmentasi RFM, dan kesiapan *Data Mart* Power BI.
-* **Berpikir Kreatif (2 SKS):** Rekayasa alur kerja terpadu Google Sheets & Streamlit tanpa beban biaya langganan ERP.
-* **Tata Tulis Ilmiah (2 SKS):** Dokumentasi teknis terstruktur, standarisasi kode, dan penyusunan naskah laporan akhir.
+## Lisensi
 
----
-**Nabila Catering — Kelezatan Rasa, Ketepatan Waktu, dan Modernitas Tata Kelola Boga.**
+Proyek ini didistribusikan di bawah lisensi terbuka [MIT License](LICENSE).

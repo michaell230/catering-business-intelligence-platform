@@ -1,0 +1,27 @@
+Kode_Menu,Kategori_Pesanan,Nama_Menu,Harga_Satuan,Status
+LS01,Lauk Satuan,Ayam Bakar,18000,Tersedia
+LS02,Lauk Satuan,Ayam Goreng Lengkuas,18000,Tersedia
+LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,16000,Tersedia
+LS04,Lauk Satuan,Ayam Teriyaki,18000,Tersedia
+LS05,Lauk Satuan,Ayam Kecap,17000,Tersedia
+LS06,Lauk Satuan,Rendang Daging,28000,Tersedia
+LS07,Lauk Satuan,Ayam Bali,18000,Tersedia
+LS08,Lauk Satuan,Mujair Goreng,20000,Tersedia
+LS09,Lauk Satuan,Pepes Pindang,15000,Tersedia
+LS10,Lauk Satuan,Perkedel Kentang,5000,Tersedia
+LS11,Lauk Satuan,Bakwan Jagung,5000,Tersedia
+LS12,Lauk Satuan,Tahu Tempe Bacem,7000,Tersedia
+LS13,Lauk Satuan,Telur Balado,8000,Tersedia
+LS14,Lauk Satuan,Telur Dadar Tebal,10000,Tersedia
+PA01,Paket Acara,Nasi Tumpeng Mini,45000,Tersedia
+PA02,Paket Acara,Nasi Tumpeng 10 Porsi,350000,Tersedia
+PA03,Paket Acara,Nasi Tumpeng 20 Porsi,650000,Tersedia
+PA04,Paket Acara,Nasi Tumpeng 30 Porsi,950000,Tersedia
+PN01,Paket Nasi,Nasi Kotak Ayam Kampung,35000,Tersedia
+PN02,Paket Nasi,Nasi Kuning,35000,Tersedia
+PN03,Paket Nasi,Nasi Bento,20000,Tersedia
+PN04,Paket Nasi,Nasi Ayam Bakar,25000,Tersedia
+PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,25000,Tersedia
+PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,23000,Tersedia
+PN07,Paket Nasi,Nasi Rendang Lapis,35000,Tersedia
+PN08,Paket Nasi,Nasi Mujair Sambal,25000,Tersedia

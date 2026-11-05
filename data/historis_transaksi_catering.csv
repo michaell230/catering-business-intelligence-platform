@@ -1,0 +1,1201 @@
+﻿ID_Pesanan,Nama_Pemesan,Tanggal_Pesanan,Tanggal_Selesai,Kode_Menu,Kategori_Pesanan,Nama_Menu,Jumlah_Pesanan,Harga_Satuan,Total_Penjualan,Status_Pesanan
+CTR0001,Darmi Sukardi,2025-01-01,2025-01-07,PN02,Paket Nasi,Nasi Kuning,50,35000,1750000,Selesai
+CTR0002,Fauzi Prasetyo,2025-01-01,2025-01-04,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,53,23000,1219000,Selesai
+CTR0003,Lastri Hartono,2025-01-02,2025-01-06,LS11,Lauk Satuan,Bakwan Jagung,47,5000,235000,Selesai
+CTR0004,Rohman Ningsih,2025-01-02,2025-01-06,LS14,Lauk Satuan,Telur Dadar Tebal,71,10000,710000,Selesai
+CTR0005,Sugi Handayani,2025-01-02,2025-01-05,LS11,Lauk Satuan,Bakwan Jagung,41,5000,205000,Selesai
+CTR0006,Kasim Wibowo,2025-01-02,2025-01-04,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0007,Sumarno Yuliani,2025-01-03,2025-01-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,75,23000,1725000,Selesai
+CTR0008,Budi Suwandi,2025-01-03,2025-01-03,LS06,Lauk Satuan,Rendang Daging,75,28000,2100000,Selesai
+CTR0009,Sumini Widodo,2025-01-04,2025-01-06,LS09,Lauk Satuan,Pepes Pindang,35,15000,525000,Selesai
+CTR0010,MAN 2 Jombang,2025-01-04,2025-01-06,PN07,Paket Nasi,Nasi Rendang Lapis,103,35000,3605000,Selesai
+CTR0011,Yuliana Wibowo,2025-01-04,2025-01-07,LS09,Lauk Satuan,Pepes Pindang,31,15000,465000,Selesai
+CTR0012,Suyanto Sukardi,2025-01-05,2025-01-11,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,45,35000,1575000,Selesai
+CTR0013,SMP Darul Ulum 1,2025-01-05,2025-01-07,PN08,Paket Nasi,Nasi Mujair Sambal,123,25000,3075000,Selesai
+CTR0014,Nur Santoso,2025-01-05,2025-01-06,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,62,35000,2170000,Selesai
+CTR0015,Sumarno Rahayu,2025-01-06,2025-01-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,62,25000,1550000,Selesai
+CTR0016,Ismail Suyanto,2025-01-06,2025-01-08,PN03,Paket Nasi,Nasi Bento,61,20000,1220000,Selesai
+CTR0017,Darmi Setiani,2025-01-06,2025-01-09,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0018,Suyono Slamet,2025-01-06,2025-01-09,LS05,Lauk Satuan,Ayam Kecap,47,17000,799000,Selesai
+CTR0019,Nanik Yanto,2025-01-07,2025-01-11,LS02,Lauk Satuan,Ayam Goreng Lengkuas,54,18000,972000,Selesai
+CTR0020,Yanto Suryadi,2025-01-07,2025-01-09,LS06,Lauk Satuan,Rendang Daging,47,28000,1316000,Selesai
+CTR0021,Murni Wati,2025-01-07,2025-01-13,PN07,Paket Nasi,Nasi Rendang Lapis,37,35000,1295000,Selesai
+CTR0022,Suhadi Aminah,2025-01-07,2025-01-11,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,53,35000,1855000,Selesai
+CTR0023,Rukmini Siswanto,2025-01-08,2025-01-11,LS12,Lauk Satuan,Tahu Tempe Bacem,60,7000,420000,Selesai
+CTR0024,Suyono Suryadi,2025-01-08,,PN08,Paket Nasi,Nasi Mujair Sambal,55,25000,1375000,Dibatalkan
+CTR0025,Rini Khasanah,2025-01-09,2025-01-11,LS09,Lauk Satuan,Pepes Pindang,71,15000,1065000,Selesai
+CTR0026,Suyanto Widodo,2025-01-10,2025-01-13,LS12,Lauk Satuan,Tahu Tempe Bacem,30,7000,210000,Selesai
+CTR0027,Lilis Saputra,2025-01-10,2025-01-14,PN02,Paket Nasi,Nasi Kuning,76,35000,2660000,Selesai
+CTR0028,MTs Plus Darul Ulum,2025-01-10,2025-01-14,PN03,Paket Nasi,Nasi Bento,90,20000,1800000,Selesai
+CTR0029,Kusno Purnama,2025-01-11,2025-01-14,LS06,Lauk Satuan,Rendang Daging,36,28000,1008000,Selesai
+CTR0030,SMA Darul Ulum 2,2025-01-12,2025-01-12,PA01,Paket Acara,Nasi Tumpeng Mini,119,45000,5355000,Selesai
+CTR0031,Suwarno Yanto,2025-01-12,2025-01-16,PN07,Paket Nasi,Nasi Rendang Lapis,82,35000,2870000,Selesai
+CTR0032,Rohman Khasanah,2025-01-12,2025-01-12,LS07,Lauk Satuan,Ayam Bali,61,18000,1098000,Selesai
+CTR0033,Yuliana Hadi,2025-01-13,2025-01-15,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,64,25000,1600000,Selesai
+CTR0034,Lilis Suwandi,2025-01-13,2025-01-14,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,77,35000,2695000,Selesai
+CTR0035,Kholis Rohman,2025-01-13,2025-01-16,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,34,23000,782000,Selesai
+CTR0036,MTs Plus Darul Ulum,2025-01-14,2025-01-15,LS12,Lauk Satuan,Tahu Tempe Bacem,74,7000,518000,Selesai
+CTR0037,Mulyono Kusnadi,2025-01-14,2025-01-15,LS10,Lauk Satuan,Perkedel Kentang,38,5000,190000,Selesai
+CTR0038,Nanik Astuti,2025-01-14,2025-01-17,LS02,Lauk Satuan,Ayam Goreng Lengkuas,50,18000,900000,Selesai
+CTR0039,Fauzi Khasanah,2025-01-14,2025-01-19,PN07,Paket Nasi,Nasi Rendang Lapis,46,35000,1610000,Selesai
+CTR0040,MTsN 2 Jombang,2025-01-15,2025-01-19,PN04,Paket Nasi,Nasi Ayam Bakar,89,25000,2225000,Selesai
+CTR0041,Darmi Prasetyo,2025-01-15,2025-01-20,LS02,Lauk Satuan,Ayam Goreng Lengkuas,44,18000,792000,Selesai
+CTR0042,Ali Sugiarto,2025-01-15,2025-01-16,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,64,16000,1024000,Selesai
+CTR0043,Bambang Hartono,2025-01-15,2025-01-18,PN07,Paket Nasi,Nasi Rendang Lapis,54,35000,1890000,Selesai
+CTR0044,Lilis Setiani,2025-01-17,2025-01-19,LS01,Lauk Satuan,Ayam Bakar,40,18000,720000,Selesai
+CTR0045,Kasim Rahayu,2025-01-18,2025-01-21,LS11,Lauk Satuan,Bakwan Jagung,65,5000,325000,Selesai
+CTR0046,Darmi Rahayu,2025-01-18,,PN03,Paket Nasi,Nasi Bento,110,20000,2200000,Dibatalkan
+CTR0047,Tatik Kartini,2025-01-18,2025-01-18,LS14,Lauk Satuan,Telur Dadar Tebal,49,10000,490000,Selesai
+CTR0048,Suwarti Slamet,2025-01-19,,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,49,16000,784000,Dibatalkan
+CTR0049,Tini Kurniawan,2025-01-19,2025-01-24,LS05,Lauk Satuan,Ayam Kecap,39,17000,663000,Selesai
+CTR0050,Heni Kusuma,2025-01-19,,LS14,Lauk Satuan,Telur Dadar Tebal,57,10000,570000,Dibatalkan
+CTR0051,Nur Yanto,2025-01-20,2025-01-23,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,72,35000,2520000,Selesai
+CTR0052,Bambang Yanto,2025-01-21,2025-01-27,PN08,Paket Nasi,Nasi Mujair Sambal,84,25000,2100000,Selesai
+CTR0053,Rohmah Mulyono,2025-01-21,2025-01-25,LS08,Lauk Satuan,Mujair Goreng,44,20000,880000,Selesai
+CTR0054,Tini Susanti,2025-01-21,2025-01-25,LS09,Lauk Satuan,Pepes Pindang,56,15000,840000,Selesai
+CTR0055,Ismail Suharti,2025-01-21,2025-01-24,LS10,Lauk Satuan,Perkedel Kentang,70,5000,350000,Selesai
+CTR0056,Ida Rohman,2025-01-22,2025-01-24,LS09,Lauk Satuan,Pepes Pindang,40,15000,600000,Selesai
+CTR0057,Lastri Yuliani,2025-01-22,2025-01-25,PN07,Paket Nasi,Nasi Rendang Lapis,51,35000,1785000,Selesai
+CTR0058,Sutrisno Hidayah,2025-01-23,2025-01-27,PA01,Paket Acara,Nasi Tumpeng Mini,29,45000,1305000,Selesai
+CTR0059,Hartono Mulyono,2025-01-23,2025-01-26,LS07,Lauk Satuan,Ayam Bali,32,18000,576000,Selesai
+CTR0060,Tatik Winarni,2025-01-24,2025-01-28,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0061,Nanik Rohman,2025-01-24,2025-01-26,PN03,Paket Nasi,Nasi Bento,85,20000,1700000,Selesai
+CTR0062,Lastri Rahayu,2025-01-24,2025-01-27,LS04,Lauk Satuan,Ayam Teriyaki,44,18000,792000,Selesai
+CTR0063,Murni Lestari,2025-01-24,2025-01-26,LS09,Lauk Satuan,Pepes Pindang,35,15000,525000,Selesai
+CTR0064,Joko Sutrisno,2025-01-24,2025-01-27,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0065,Heni Utami,2025-01-25,2025-01-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,74,25000,1850000,Selesai
+CTR0066,Lilis Suyanto,2025-01-25,2025-01-27,LS13,Lauk Satuan,Telur Balado,65,8000,520000,Selesai
+CTR0067,Syamsul Wulandari,2025-01-25,2025-01-25,LS01,Lauk Satuan,Ayam Bakar,61,18000,1098000,Selesai
+CTR0068,Ani Suryadi,2025-01-25,2025-01-27,PN04,Paket Nasi,Nasi Ayam Bakar,77,25000,1925000,Selesai
+CTR0069,Kasim Sari,2025-01-25,2025-01-29,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,102,35000,3570000,Selesai
+CTR0070,Ratna Suharto,2025-01-26,2025-01-28,LS09,Lauk Satuan,Pepes Pindang,74,15000,1110000,Selesai
+CTR0071,Herman Hartono,2025-01-26,2025-01-28,PN07,Paket Nasi,Nasi Rendang Lapis,36,35000,1260000,Selesai
+CTR0072,Rohman Slamet,2025-01-26,2025-01-27,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0073,Wulan Suwandi,2025-01-27,2025-01-29,PN04,Paket Nasi,Nasi Ayam Bakar,58,25000,1450000,Selesai
+CTR0074,Sugi Wulandari,2025-01-27,2025-01-30,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,111,35000,3885000,Selesai
+CTR0075,Suroso Wati,2025-01-27,2025-01-30,PN07,Paket Nasi,Nasi Rendang Lapis,61,35000,2135000,Selesai
+CTR0076,Teguh Yanto,2025-01-27,2025-01-30,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,107,23000,2461000,Selesai
+CTR0077,Ani Basuki,2025-01-28,2025-01-31,LS07,Lauk Satuan,Ayam Bali,44,18000,792000,Selesai
+CTR0078,Tatik Yuliani,2025-01-28,2025-01-29,LS12,Lauk Satuan,Tahu Tempe Bacem,67,7000,469000,Selesai
+CTR0079,SMP Darul Ulum 1,2025-01-29,2025-01-31,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0080,Dewi Yuliani,2025-01-29,2025-02-01,LS07,Lauk Satuan,Ayam Bali,59,18000,1062000,Selesai
+CTR0081,Yuni Kartini,2025-01-30,2025-02-02,LS07,Lauk Satuan,Ayam Bali,43,18000,774000,Selesai
+CTR0082,Misbah Prasetyo,2025-01-30,2025-01-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,99,25000,2475000,Selesai
+CTR0083,Suroso Sutrisno,2025-01-31,2025-02-04,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,37,25000,925000,Selesai
+CTR0084,Suhadi Hadi,2025-01-31,2025-02-01,PN02,Paket Nasi,Nasi Kuning,97,35000,3395000,Selesai
+CTR0085,Sumarno Wulandari,2025-01-31,2025-02-03,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0086,SMK Telkom Darul Ulum,2025-01-31,2025-02-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,116,23000,2668000,Selesai
+CTR0087,Yuni Handayani,2025-02-01,2025-02-02,PA01,Paket Acara,Nasi Tumpeng Mini,29,45000,1305000,Selesai
+CTR0088,Wati Siswanto,2025-02-01,2025-02-07,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,108,25000,2700000,Selesai
+CTR0089,Budi Suharto,2025-02-01,2025-02-02,PN08,Paket Nasi,Nasi Mujair Sambal,111,25000,2775000,Selesai
+CTR0090,Sutomo Widodo,2025-02-01,2025-02-02,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,73,35000,2555000,Selesai
+CTR0091,Ratna Suyanto,2025-02-02,2025-02-07,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,28,35000,980000,Selesai
+CTR0092,Ismail Mulyani,2025-02-02,2025-02-03,LS08,Lauk Satuan,Mujair Goreng,51,20000,1020000,Selesai
+CTR0093,SMP Darul Ulum 1,2025-02-03,2025-02-04,LS06,Lauk Satuan,Rendang Daging,70,28000,1960000,Selesai
+CTR0094,Darto Susanti,2025-02-03,2025-02-06,PN07,Paket Nasi,Nasi Rendang Lapis,62,35000,2170000,Selesai
+CTR0095,Misbah Mulyono,2025-02-03,2025-02-06,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,25,23000,575000,Selesai
+CTR0096,Suroso Yanto,2025-02-03,2025-02-07,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,46,23000,1058000,Selesai
+CTR0097,Hartini Setiawan,2025-02-04,2025-02-10,PN02,Paket Nasi,Nasi Kuning,48,35000,1680000,Selesai
+CTR0098,Slamet Sari,2025-02-04,2025-02-09,LS01,Lauk Satuan,Ayam Bakar,43,18000,774000,Selesai
+CTR0099,Bambang Suharti,2025-02-04,2025-02-05,LS09,Lauk Satuan,Pepes Pindang,45,15000,675000,Selesai
+CTR0100,Yudi Mulyono,2025-02-04,2025-02-07,LS06,Lauk Satuan,Rendang Daging,49,28000,1372000,Selesai
+CTR0101,Indah Hartono,2025-02-04,2025-02-05,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,30,16000,480000,Selesai
+CTR0102,Sukardi Santoso,2025-02-05,2025-02-07,PN07,Paket Nasi,Nasi Rendang Lapis,109,35000,3815000,Selesai
+CTR0103,Yuni Yuliani,2025-02-05,2025-02-06,PN03,Paket Nasi,Nasi Bento,63,20000,1260000,Selesai
+CTR0104,Nur Rohman,2025-02-05,2025-02-07,PN02,Paket Nasi,Nasi Kuning,27,35000,945000,Selesai
+CTR0105,SMA Darul Ulum 2,2025-02-05,2025-02-09,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0106,MTsN 2 Jombang,2025-02-05,2025-02-07,PN07,Paket Nasi,Nasi Rendang Lapis,130,35000,4550000,Selesai
+CTR0107,Lilis Hidayat,2025-02-06,2025-02-09,LS05,Lauk Satuan,Ayam Kecap,32,17000,544000,Selesai
+CTR0108,Nur Setiani,2025-02-06,2025-02-11,LS08,Lauk Satuan,Mujair Goreng,44,20000,880000,Selesai
+CTR0109,SMP Darul Ulum 1,2025-02-07,2025-02-10,PN03,Paket Nasi,Nasi Bento,46,20000,920000,Selesai
+CTR0110,Suwito Widodo,2025-02-08,2025-02-13,LS01,Lauk Satuan,Ayam Bakar,69,18000,1242000,Selesai
+CTR0111,Ani Slamet,2025-02-08,2025-02-08,LS12,Lauk Satuan,Tahu Tempe Bacem,38,7000,266000,Selesai
+CTR0112,Suroso Rohmah,2025-02-08,2025-02-11,LS01,Lauk Satuan,Ayam Bakar,66,18000,1188000,Selesai
+CTR0113,Endang Setiani,2025-02-09,2025-02-11,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0114,Suwito Hartati,2025-02-10,2025-02-12,PA01,Paket Acara,Nasi Tumpeng Mini,27,45000,1215000,Selesai
+CTR0115,Hadi Suryanto,2025-02-10,2025-02-17,LS10,Lauk Satuan,Perkedel Kentang,74,5000,370000,Selesai
+CTR0116,Arif Suyanto,2025-02-10,2025-02-10,PN08,Paket Nasi,Nasi Mujair Sambal,44,25000,1100000,Selesai
+CTR0117,Wulan Saputra,2025-02-10,2025-02-14,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,60,25000,1500000,Selesai
+CTR0118,Syamsul Setiani,2025-02-10,2025-02-12,LS08,Lauk Satuan,Mujair Goreng,48,20000,960000,Selesai
+CTR0119,Suroso Aminah,2025-02-10,2025-02-14,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,95,25000,2375000,Selesai
+CTR0120,Budi Utami,2025-02-11,2025-02-16,LS12,Lauk Satuan,Tahu Tempe Bacem,69,7000,483000,Selesai
+CTR0121,Yanto Rohman,2025-02-11,,PN02,Paket Nasi,Nasi Kuning,79,35000,2765000,Dibatalkan
+CTR0122,Siti Hidayah,2025-02-11,2025-02-16,LS14,Lauk Satuan,Telur Dadar Tebal,60,10000,600000,Selesai
+CTR0123,Yanti Handayani,2025-02-11,2025-02-12,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,100,25000,2500000,Selesai
+CTR0124,SMP Darul Ulum 1,2025-02-11,2025-02-12,LS11,Lauk Satuan,Bakwan Jagung,35,5000,175000,Selesai
+CTR0125,Rini Hartono,2025-02-11,,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,49,23000,1127000,Dibatalkan
+CTR0126,SMA Darul Ulum 1,2025-02-11,,LS02,Lauk Satuan,Ayam Goreng Lengkuas,59,18000,1062000,Dibatalkan
+CTR0127,Lilis Hadi,2025-02-12,,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Dibatalkan
+CTR0128,Nur Hidayah,2025-02-12,2025-02-14,PN04,Paket Nasi,Nasi Ayam Bakar,33,25000,825000,Selesai
+CTR0129,Tono Wati,2025-02-13,2025-02-18,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,37,16000,592000,Selesai
+CTR0130,Imam Santoso,2025-02-13,2025-02-15,PN07,Paket Nasi,Nasi Rendang Lapis,109,35000,3815000,Selesai
+CTR0131,Suwarno Suyanto,2025-02-13,2025-02-14,PN02,Paket Nasi,Nasi Kuning,28,35000,980000,Selesai
+CTR0132,Nanik Handayani,2025-02-13,2025-02-15,PN08,Paket Nasi,Nasi Mujair Sambal,30,25000,750000,Selesai
+CTR0133,Teguh Prasetyo,2025-02-13,2025-02-18,LS08,Lauk Satuan,Mujair Goreng,30,20000,600000,Selesai
+CTR0134,MA Unggulan Darul Ulum,2025-02-14,2025-02-17,PA01,Paket Acara,Nasi Tumpeng Mini,74,45000,3330000,Selesai
+CTR0135,Narto Ningsih,2025-02-14,2025-02-19,LS10,Lauk Satuan,Perkedel Kentang,45,5000,225000,Selesai
+CTR0136,Yuliana Susanti,2025-02-15,2025-02-17,PN07,Paket Nasi,Nasi Rendang Lapis,60,35000,2100000,Selesai
+CTR0137,Nur Kurniawan,2025-02-15,2025-02-17,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0138,MAN 2 Jombang,2025-02-15,2025-02-17,PN03,Paket Nasi,Nasi Bento,53,20000,1060000,Selesai
+CTR0139,Rohman Riyanto,2025-02-15,2025-02-20,PN03,Paket Nasi,Nasi Bento,54,20000,1080000,Selesai
+CTR0140,Rudi Rahmawati,2025-02-16,2025-02-19,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,110,35000,3850000,Selesai
+CTR0141,Ningsih Suyanto,2025-02-17,2025-02-22,PN07,Paket Nasi,Nasi Rendang Lapis,63,35000,2205000,Selesai
+CTR0142,Heni Aminah,2025-02-17,,PN08,Paket Nasi,Nasi Mujair Sambal,89,25000,2225000,Dibatalkan
+CTR0143,Agus Utami,2025-02-17,2025-02-20,PN02,Paket Nasi,Nasi Kuning,73,35000,2555000,Selesai
+CTR0144,Suyanto Suryadi,2025-02-17,2025-02-19,PA01,Paket Acara,Nasi Tumpeng Mini,34,45000,1530000,Selesai
+CTR0145,Sukardi Mulyono,2025-02-17,2025-02-22,LS04,Lauk Satuan,Ayam Teriyaki,54,18000,972000,Selesai
+CTR0146,Rohmah Sulastri,2025-02-18,2025-02-21,LS12,Lauk Satuan,Tahu Tempe Bacem,31,7000,217000,Selesai
+CTR0147,Ismail Haryanto,2025-02-18,2025-02-19,LS11,Lauk Satuan,Bakwan Jagung,52,5000,260000,Selesai
+CTR0148,Imam Sugiarto,2025-02-19,2025-02-22,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,59,16000,944000,Selesai
+CTR0149,Marni Hartati,2025-02-19,2025-02-22,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR0150,Hartini Suwandi,2025-02-20,2025-02-25,PN04,Paket Nasi,Nasi Ayam Bakar,82,25000,2050000,Selesai
+CTR0151,Sumini Winarni,2025-02-20,2025-02-22,LS14,Lauk Satuan,Telur Dadar Tebal,72,10000,720000,Selesai
+CTR0152,Mimin Rohmah,2025-02-20,2025-02-22,LS02,Lauk Satuan,Ayam Goreng Lengkuas,51,18000,918000,Selesai
+CTR0153,Agus Aminah,2025-02-20,2025-02-21,PN07,Paket Nasi,Nasi Rendang Lapis,73,35000,2555000,Selesai
+CTR0154,Mujiono Mulyani,2025-02-20,2025-02-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,61,23000,1403000,Selesai
+CTR0155,Mansur Rohmah,2025-02-21,2025-02-24,PA01,Paket Acara,Nasi Tumpeng Mini,23,45000,1035000,Selesai
+CTR0156,Lina Fatimah,2025-02-21,2025-02-23,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,72,23000,1656000,Selesai
+CTR0157,Ratna Aminah,2025-02-21,2025-02-24,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,98,25000,2450000,Selesai
+CTR0158,Wati Setiani,2025-02-23,2025-03-01,LS06,Lauk Satuan,Rendang Daging,47,28000,1316000,Selesai
+CTR0159,Nanik Suparno,2025-02-23,2025-02-24,PN02,Paket Nasi,Nasi Kuning,50,35000,1750000,Selesai
+CTR0160,Aminah Wati,2025-02-25,2025-02-26,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,110,23000,2530000,Selesai
+CTR0161,Sri Khasanah,2025-02-25,2025-02-25,PN02,Paket Nasi,Nasi Kuning,91,35000,3185000,Selesai
+CTR0162,Yanti Sari,2025-02-25,2025-02-28,LS04,Lauk Satuan,Ayam Teriyaki,74,18000,1332000,Selesai
+CTR0163,Sari Kusnadi,2025-02-26,2025-02-26,LS09,Lauk Satuan,Pepes Pindang,35,15000,525000,Selesai
+CTR0164,Tatik Suharti,2025-02-26,2025-02-28,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,40,16000,640000,Selesai
+CTR0165,Darto Purnama,2025-02-26,2025-03-03,LS07,Lauk Satuan,Ayam Bali,33,18000,594000,Selesai
+CTR0166,Teguh Wulandari,2025-02-26,2025-02-28,PN03,Paket Nasi,Nasi Bento,41,20000,820000,Selesai
+CTR0167,Ida Mulyani,2025-02-26,2025-03-01,LS11,Lauk Satuan,Bakwan Jagung,70,5000,350000,Selesai
+CTR0168,Rini Fatimah,2025-02-27,2025-03-02,PN07,Paket Nasi,Nasi Rendang Lapis,79,35000,2765000,Selesai
+CTR0169,Hasan Astuti,2025-02-27,2025-03-01,LS06,Lauk Satuan,Rendang Daging,59,28000,1652000,Selesai
+CTR0170,Kustini Widodo,2025-02-27,2025-03-04,PN04,Paket Nasi,Nasi Ayam Bakar,53,25000,1325000,Selesai
+CTR0171,Ningsih Hidayah,2025-02-28,2025-03-01,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0172,Wahyu Rohman,2025-02-28,2025-03-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,110,23000,2530000,Selesai
+CTR0173,Sutomo Handayani,2025-03-01,2025-03-03,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,48,35000,1680000,Selesai
+CTR0174,Suwarno Lestari,2025-03-01,2025-03-02,PN02,Paket Nasi,Nasi Kuning,83,35000,2905000,Selesai
+CTR0175,Didik Aminah,2025-03-01,2025-03-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,76,25000,1900000,Selesai
+CTR0176,Sulastri Kusnadi,2025-03-01,2025-03-04,PN07,Paket Nasi,Nasi Rendang Lapis,55,35000,1925000,Selesai
+CTR0177,Darto Sugiarto,2025-03-02,2025-03-04,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,69,35000,2415000,Selesai
+CTR0178,Pardi Rahmawati,2025-03-04,2025-03-05,LS12,Lauk Satuan,Tahu Tempe Bacem,69,7000,483000,Selesai
+CTR0179,MTsN 2 Jombang,2025-03-05,2025-03-10,LS13,Lauk Satuan,Telur Balado,75,8000,600000,Selesai
+CTR0180,Murni Rohmah,2025-03-05,2025-03-08,PN08,Paket Nasi,Nasi Mujair Sambal,74,25000,1850000,Selesai
+CTR0181,Kusno Riyanto,2025-03-06,,LS05,Lauk Satuan,Ayam Kecap,55,17000,935000,Dibatalkan
+CTR0182,SMP Darul Ulum 1,2025-03-07,2025-03-09,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,137,35000,4795000,Selesai
+CTR0183,Misbah Hartono,2025-03-07,2025-03-08,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,25,23000,575000,Selesai
+CTR0184,Sri Rohman,2025-03-08,2025-03-12,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,84,25000,2100000,Selesai
+CTR0185,Teguh Sutrisno,2025-03-08,2025-03-10,LS11,Lauk Satuan,Bakwan Jagung,47,5000,235000,Selesai
+CTR0186,Ani Kusuma,2025-03-08,2025-03-09,PN03,Paket Nasi,Nasi Bento,99,20000,1980000,Selesai
+CTR0187,Hartini Hidayah,2025-03-08,2025-03-12,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,43,23000,989000,Selesai
+CTR0188,Siti Mulyono,2025-03-09,2025-03-11,PA01,Paket Acara,Nasi Tumpeng Mini,16,45000,720000,Selesai
+CTR0189,Nur Mulyani,2025-03-09,2025-03-09,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,39,23000,897000,Selesai
+CTR0190,Imam Setiawan,2025-03-09,2025-03-11,PN07,Paket Nasi,Nasi Rendang Lapis,73,35000,2555000,Selesai
+CTR0191,Imam Fatimah,2025-03-10,2025-03-12,PN08,Paket Nasi,Nasi Mujair Sambal,54,25000,1350000,Selesai
+CTR0192,Suminah Wibowo,2025-03-11,2025-03-16,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR0193,Suminah Purnama,2025-03-11,2025-03-14,LS10,Lauk Satuan,Perkedel Kentang,41,5000,205000,Selesai
+CTR0194,Pardi Kartini,2025-03-11,2025-03-17,PN02,Paket Nasi,Nasi Kuning,77,35000,2695000,Selesai
+CTR0195,Sumarno Rohmah,2025-03-11,2025-03-14,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,46,35000,1610000,Selesai
+CTR0196,Udin Wati,2025-03-12,2025-03-18,LS08,Lauk Satuan,Mujair Goreng,32,20000,640000,Selesai
+CTR0197,SMA Darul Ulum 3,2025-03-12,2025-03-14,PN07,Paket Nasi,Nasi Rendang Lapis,77,35000,2695000,Selesai
+CTR0198,Mansur Khasanah,2025-03-12,2025-03-15,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR0199,Hasan Setiani,2025-03-15,2025-03-20,LS04,Lauk Satuan,Ayam Teriyaki,33,18000,594000,Selesai
+CTR0200,Yanto Suwandi,2025-03-15,2025-03-18,PN07,Paket Nasi,Nasi Rendang Lapis,55,35000,1925000,Selesai
+CTR0201,Hartini Mulyani,2025-03-15,2025-03-20,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0202,Suhadi Kusnadi,2025-03-15,2025-03-17,LS05,Lauk Satuan,Ayam Kecap,30,17000,510000,Selesai
+CTR0203,Agus Setiani,2025-03-16,2025-03-19,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,103,23000,2369000,Selesai
+CTR0204,Eko Yanto,2025-03-17,2025-03-21,PN07,Paket Nasi,Nasi Rendang Lapis,29,35000,1015000,Selesai
+CTR0205,Murni Hidayah,2025-03-17,2025-03-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,67,23000,1541000,Selesai
+CTR0206,SMA Darul Ulum 1,2025-03-17,2025-03-17,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,144,23000,3312000,Selesai
+CTR0207,Didik Lestari,2025-03-17,2025-03-19,PN08,Paket Nasi,Nasi Mujair Sambal,112,25000,2800000,Selesai
+CTR0208,SMA Darul Ulum 1,2025-03-18,2025-03-24,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,111,35000,3885000,Selesai
+CTR0209,Ratna Hadi,2025-03-18,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,114,35000,3990000,Dibatalkan
+CTR0210,Ani Fatimah,2025-03-18,2025-03-22,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,48,23000,1104000,Selesai
+CTR0211,Mujiono Sukardi,2025-03-18,2025-03-20,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0212,Endang Purnama,2025-03-18,2025-03-21,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0213,Agus Haryanto,2025-03-19,2025-03-22,PN08,Paket Nasi,Nasi Mujair Sambal,33,25000,825000,Selesai
+CTR0214,Rudi Purnama,2025-03-19,2025-03-22,PA01,Paket Acara,Nasi Tumpeng Mini,37,45000,1665000,Selesai
+CTR0215,Mujiono Basuki,2025-03-19,,PN04,Paket Nasi,Nasi Ayam Bakar,47,25000,1175000,Dibatalkan
+CTR0216,Tini Suryadi,2025-03-19,2025-03-22,LS09,Lauk Satuan,Pepes Pindang,58,15000,870000,Selesai
+CTR0217,Heni Saputra,2025-03-20,2025-03-21,PN07,Paket Nasi,Nasi Rendang Lapis,48,35000,1680000,Selesai
+CTR0218,Rukmini Fatimah,2025-03-20,2025-03-23,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,96,35000,3360000,Selesai
+CTR0219,Suyanto Purnama,2025-03-20,2025-03-23,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,97,35000,3395000,Selesai
+CTR0220,Heni Khasanah,2025-03-21,2025-03-23,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0221,Udin Yanto,2025-03-21,2025-03-23,LS07,Lauk Satuan,Ayam Bali,56,18000,1008000,Selesai
+CTR0222,Yuni Suharto,2025-03-21,2025-03-23,PN02,Paket Nasi,Nasi Kuning,40,35000,1400000,Selesai
+CTR0223,Mansur Suyanto,2025-03-22,2025-03-24,LS14,Lauk Satuan,Telur Dadar Tebal,39,10000,390000,Selesai
+CTR0224,Darto Mulyono,2025-03-22,2025-03-24,PN08,Paket Nasi,Nasi Mujair Sambal,62,25000,1550000,Selesai
+CTR0225,Bambang Riyanto,2025-03-23,2025-03-26,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,71,25000,1775000,Selesai
+CTR0226,Pardi Suwandi,2025-03-23,2025-03-27,PN02,Paket Nasi,Nasi Kuning,89,35000,3115000,Selesai
+CTR0227,Suminah Ningsih,2025-03-23,2025-03-25,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,40,16000,640000,Selesai
+CTR0228,Kholis Sutrisno,2025-03-24,2025-03-26,LS08,Lauk Satuan,Mujair Goreng,39,20000,780000,Selesai
+CTR0229,Wulan Mulyono,2025-03-24,2025-03-28,LS08,Lauk Satuan,Mujair Goreng,48,20000,960000,Selesai
+CTR0230,Suwito Slamet,2025-03-24,2025-03-29,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,66,25000,1650000,Selesai
+CTR0231,Udin Rahayu,2025-03-25,2025-03-28,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0232,Didik Suyanto,2025-03-25,2025-03-26,PN04,Paket Nasi,Nasi Ayam Bakar,51,25000,1275000,Selesai
+CTR0233,Herman Suparno,2025-03-25,2025-03-27,PN02,Paket Nasi,Nasi Kuning,89,35000,3115000,Selesai
+CTR0234,Sri Haryanto,2025-03-25,2025-03-28,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,78,35000,2730000,Selesai
+CTR0235,Ali Ningsih,2025-03-25,2025-03-26,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,38,16000,608000,Selesai
+CTR0236,Eko Fatimah,2025-03-26,2025-03-29,LS12,Lauk Satuan,Tahu Tempe Bacem,51,7000,357000,Selesai
+CTR0237,Kusno Rohmah,2025-03-26,2025-03-29,LS10,Lauk Satuan,Perkedel Kentang,30,5000,150000,Selesai
+CTR0238,Sulastri Wibowo,2025-03-26,2025-03-31,PN02,Paket Nasi,Nasi Kuning,84,35000,2940000,Selesai
+CTR0239,Sumarno Sukardi,2025-03-26,2025-03-29,PN04,Paket Nasi,Nasi Ayam Bakar,67,25000,1675000,Selesai
+CTR0240,Sari Prasetyo,2025-03-27,2025-03-29,PN08,Paket Nasi,Nasi Mujair Sambal,70,25000,1750000,Selesai
+CTR0241,Darmi Kurniawan,2025-03-28,2025-03-29,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,25,35000,875000,Selesai
+CTR0242,Mujiono Suharti,2025-03-29,2025-04-01,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,44,25000,1100000,Selesai
+CTR0243,Rini Yanto,2025-03-29,2025-03-30,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,2,650000,1300000,Selesai
+CTR0244,Rohman Yanto,2025-03-30,2025-03-30,LS05,Lauk Satuan,Ayam Kecap,63,17000,1071000,Selesai
+CTR0245,Agus Rahayu,2025-03-30,2025-04-02,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,88,25000,2200000,Selesai
+CTR0246,Yuni Hidayah,2025-03-30,2025-03-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,49,25000,1225000,Selesai
+CTR0247,Tono Sukardi,2025-03-30,2025-03-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,57,25000,1425000,Selesai
+CTR0248,Heru Suharti,2025-03-31,2025-04-01,LS14,Lauk Satuan,Telur Dadar Tebal,38,10000,380000,Selesai
+CTR0249,Lastri Suyanto,2025-03-31,2025-03-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,28,25000,700000,Selesai
+CTR0250,Suyono Winarni,2025-04-01,2025-04-05,LS13,Lauk Satuan,Telur Balado,53,8000,424000,Selesai
+CTR0251,Sutrisno Kurniawan,2025-04-01,2025-04-06,LS04,Lauk Satuan,Ayam Teriyaki,52,18000,936000,Selesai
+CTR0252,SMP Darul Ulum 1,2025-04-01,2025-04-01,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0253,Heni Hartati,2025-04-01,,PN04,Paket Nasi,Nasi Ayam Bakar,76,25000,1900000,Dibatalkan
+CTR0254,Sumarno Slamet,2025-04-01,2025-04-05,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,48,23000,1104000,Selesai
+CTR0255,Heni Yanto,2025-04-01,2025-04-02,LS11,Lauk Satuan,Bakwan Jagung,69,5000,345000,Selesai
+CTR0256,Ali Suryadi,2025-04-02,2025-04-07,LS09,Lauk Satuan,Pepes Pindang,75,15000,1125000,Selesai
+CTR0257,Arif Rohman,2025-04-02,2025-04-03,LS06,Lauk Satuan,Rendang Daging,67,28000,1876000,Selesai
+CTR0258,Dewi Yanto,2025-04-03,2025-04-05,LS08,Lauk Satuan,Mujair Goreng,75,20000,1500000,Selesai
+CTR0259,Ningsih Siswanto,2025-04-03,2025-04-05,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,85,35000,2975000,Selesai
+CTR0260,Aminah Hidayah,2025-04-03,2025-04-03,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,2,350000,700000,Selesai
+CTR0261,Dewi Susanti,2025-04-03,2025-04-08,LS11,Lauk Satuan,Bakwan Jagung,48,5000,240000,Selesai
+CTR0262,Marni Riyanto,2025-04-03,2025-04-06,PN07,Paket Nasi,Nasi Rendang Lapis,62,35000,2170000,Selesai
+CTR0263,Sukardi Wulandari,2025-04-04,2025-04-07,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,50,23000,1150000,Selesai
+CTR0264,MA Unggulan Darul Ulum,2025-04-04,2025-04-05,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,103,25000,2575000,Selesai
+CTR0265,Ali Rohmah,2025-04-04,2025-04-07,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0266,Yudi Susanti,2025-04-05,2025-04-10,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,35,23000,805000,Selesai
+CTR0267,Erna Rahmawati,2025-04-05,2025-04-08,LS08,Lauk Satuan,Mujair Goreng,43,20000,860000,Selesai
+CTR0268,Tatik Suparno,2025-04-05,2025-04-06,PN08,Paket Nasi,Nasi Mujair Sambal,81,25000,2025000,Selesai
+CTR0269,Pardi Setiawan,2025-04-06,2025-04-08,PN07,Paket Nasi,Nasi Rendang Lapis,63,35000,2205000,Selesai
+CTR0270,Ningsih Yuliani,2025-04-07,2025-04-09,PN03,Paket Nasi,Nasi Bento,50,20000,1000000,Selesai
+CTR0271,Budi Wati,2025-04-07,2025-04-13,PN04,Paket Nasi,Nasi Ayam Bakar,44,25000,1100000,Selesai
+CTR0272,Nanik Slamet,2025-04-07,2025-04-08,LS09,Lauk Satuan,Pepes Pindang,49,15000,735000,Selesai
+CTR0273,Suroso Rahmawati,2025-04-07,2025-04-14,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,88,25000,2200000,Selesai
+CTR0274,Eko Handayani,2025-04-08,2025-04-11,PN08,Paket Nasi,Nasi Mujair Sambal,113,25000,2825000,Selesai
+CTR0275,Rohman Setiani,2025-04-08,2025-04-08,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,113,35000,3955000,Selesai
+CTR0276,Eko Basuki,2025-04-08,2025-04-11,PN04,Paket Nasi,Nasi Ayam Bakar,78,25000,1950000,Selesai
+CTR0277,Wulan Hidayah,2025-04-08,2025-04-10,PN08,Paket Nasi,Nasi Mujair Sambal,68,25000,1700000,Selesai
+CTR0278,Didik Fatimah,2025-04-08,2025-04-11,PN02,Paket Nasi,Nasi Kuning,57,35000,1995000,Selesai
+CTR0279,Marni Siswanto,2025-04-08,2025-04-08,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,26,23000,598000,Selesai
+CTR0280,Suwarno Haryanto,2025-04-08,2025-04-11,PN07,Paket Nasi,Nasi Rendang Lapis,63,35000,2205000,Selesai
+CTR0281,Fauzi Yanto,2025-04-09,2025-04-11,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0282,Suwarno Santoso,2025-04-09,2025-04-12,PN04,Paket Nasi,Nasi Ayam Bakar,25,25000,625000,Selesai
+CTR0283,Lilis Siswanto,2025-04-09,2025-04-09,LS08,Lauk Satuan,Mujair Goreng,50,20000,1000000,Selesai
+CTR0284,Bambang Prasetyo,2025-04-10,,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,27,25000,675000,Dibatalkan
+CTR0285,MTsN 2 Jombang,2025-04-10,2025-04-11,PN02,Paket Nasi,Nasi Kuning,126,35000,4410000,Selesai
+CTR0286,Rudi Yanto,2025-04-11,2025-04-12,PA01,Paket Acara,Nasi Tumpeng Mini,11,45000,495000,Selesai
+CTR0287,Munir Kusuma,2025-04-11,2025-04-13,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR0288,Nanik Winarni,2025-04-12,2025-04-16,LS04,Lauk Satuan,Ayam Teriyaki,70,18000,1260000,Selesai
+CTR0289,Erna Saputra,2025-04-12,2025-04-12,LS08,Lauk Satuan,Mujair Goreng,41,20000,820000,Selesai
+CTR0290,Sutrisno Rahayu,2025-04-12,2025-04-14,PN08,Paket Nasi,Nasi Mujair Sambal,69,25000,1725000,Selesai
+CTR0291,Erna Yuliani,2025-04-13,2025-04-14,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,68,16000,1088000,Selesai
+CTR0292,Suyono Wibowo,2025-04-13,2025-04-14,LS13,Lauk Satuan,Telur Balado,51,8000,408000,Selesai
+CTR0293,Yanto Wulandari,2025-04-14,2025-04-15,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,35,35000,1225000,Selesai
+CTR0294,Narto Handayani,2025-04-14,2025-04-15,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,83,25000,2075000,Selesai
+CTR0295,Slamet Sugiarto,2025-04-14,2025-04-16,PN07,Paket Nasi,Nasi Rendang Lapis,103,35000,3605000,Selesai
+CTR0296,Kasim Haryanto,2025-04-14,2025-04-14,LS07,Lauk Satuan,Ayam Bali,68,18000,1224000,Selesai
+CTR0297,Karti Khasanah,2025-04-15,2025-04-16,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0298,Dewi Suparno,2025-04-15,2025-04-20,PN07,Paket Nasi,Nasi Rendang Lapis,74,35000,2590000,Selesai
+CTR0299,SMK Darul Ulum 1,2025-04-15,2025-04-20,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0300,Arif Khasanah,2025-04-15,2025-04-15,PN02,Paket Nasi,Nasi Kuning,51,35000,1785000,Selesai
+CTR0301,Kasim Kusuma,2025-04-15,2025-04-17,LS01,Lauk Satuan,Ayam Bakar,73,18000,1314000,Selesai
+CTR0302,Heni Basuki,2025-04-16,2025-04-20,PN07,Paket Nasi,Nasi Rendang Lapis,67,35000,2345000,Selesai
+CTR0303,Suyono Mulyani,2025-04-16,2025-04-19,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,57,25000,1425000,Selesai
+CTR0304,MTs Plus Darul Ulum,2025-04-17,2025-04-19,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,68,16000,1088000,Selesai
+CTR0305,Mimin Kurniawan,2025-04-17,2025-04-22,PN03,Paket Nasi,Nasi Bento,102,20000,2040000,Selesai
+CTR0306,Mulyono Sutrisno,2025-04-17,2025-04-18,LS05,Lauk Satuan,Ayam Kecap,59,17000,1003000,Selesai
+CTR0307,Hartono Suyanto,2025-04-18,2025-04-20,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,106,35000,3710000,Selesai
+CTR0308,Suhadi Setiawan,2025-04-18,2025-04-19,LS10,Lauk Satuan,Perkedel Kentang,62,5000,310000,Selesai
+CTR0309,SMA Darul Ulum 2,2025-04-18,2025-04-21,LS07,Lauk Satuan,Ayam Bali,70,18000,1260000,Selesai
+CTR0310,Hartono Suryadi,2025-04-19,2025-04-21,LS02,Lauk Satuan,Ayam Goreng Lengkuas,71,18000,1278000,Selesai
+CTR0311,Hartono Yanto,2025-04-19,2025-04-20,LS09,Lauk Satuan,Pepes Pindang,61,15000,915000,Selesai
+CTR0312,MTsN 2 Jombang,2025-04-19,,PN03,Paket Nasi,Nasi Bento,148,20000,2960000,Dibatalkan
+CTR0313,Rohmah Setiawan,2025-04-20,2025-04-22,PN02,Paket Nasi,Nasi Kuning,54,35000,1890000,Selesai
+CTR0314,SMK Darul Ulum 1,2025-04-20,2025-04-23,PN03,Paket Nasi,Nasi Bento,54,20000,1080000,Selesai
+CTR0315,MAN 2 Jombang,2025-04-20,2025-04-21,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,70,16000,1120000,Selesai
+CTR0316,Erna Siswanto,2025-04-20,2025-04-24,PN04,Paket Nasi,Nasi Ayam Bakar,31,25000,775000,Selesai
+CTR0317,Arif Yanto,2025-04-20,2025-04-24,LS11,Lauk Satuan,Bakwan Jagung,45,5000,225000,Selesai
+CTR0318,Ani Kurniawan,2025-04-21,2025-04-24,LS09,Lauk Satuan,Pepes Pindang,35,15000,525000,Selesai
+CTR0319,Heni Rahayu,2025-04-21,2025-04-23,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,29,35000,1015000,Selesai
+CTR0320,Tono Sutrisno,2025-04-21,2025-04-25,PN07,Paket Nasi,Nasi Rendang Lapis,37,35000,1295000,Selesai
+CTR0321,Yuni Suparno,2025-04-22,2025-04-23,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0322,Marni Astuti,2025-04-22,2025-04-25,PN03,Paket Nasi,Nasi Bento,78,20000,1560000,Selesai
+CTR0323,Tutik Rahayu,2025-04-22,2025-04-26,LS01,Lauk Satuan,Ayam Bakar,39,18000,702000,Selesai
+CTR0324,Sulastri Hartati,2025-04-22,2025-04-24,PN03,Paket Nasi,Nasi Bento,59,20000,1180000,Selesai
+CTR0325,Rohman Hidayat,2025-04-23,2025-04-26,PN03,Paket Nasi,Nasi Bento,48,20000,960000,Selesai
+CTR0326,Budi Suryanto,2025-04-23,2025-04-23,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0327,MTs Plus Darul Ulum,2025-04-23,2025-04-26,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,55,23000,1265000,Selesai
+CTR0328,Kustini Kusuma,2025-04-23,2025-04-29,PN07,Paket Nasi,Nasi Rendang Lapis,26,35000,910000,Selesai
+CTR0329,Dewi Slamet,2025-04-24,2025-04-26,PN02,Paket Nasi,Nasi Kuning,101,35000,3535000,Selesai
+CTR0330,SMK Darul Ulum 1,2025-04-24,2025-04-25,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0331,Mulyono Setiawan,2025-04-24,2025-04-26,PN04,Paket Nasi,Nasi Ayam Bakar,75,25000,1875000,Selesai
+CTR0332,Kustini Santoso,2025-04-24,2025-04-26,PN02,Paket Nasi,Nasi Kuning,27,35000,945000,Selesai
+CTR0333,Sumini Fatimah,2025-04-25,2025-04-27,PN03,Paket Nasi,Nasi Bento,47,20000,940000,Selesai
+CTR0334,Mujiono Astuti,2025-04-25,2025-04-25,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,74,35000,2590000,Selesai
+CTR0335,Darmi Wati,2025-04-25,2025-04-26,PN02,Paket Nasi,Nasi Kuning,93,35000,3255000,Selesai
+CTR0336,Yuni Siswanto,2025-04-25,2025-04-29,PN03,Paket Nasi,Nasi Bento,85,20000,1700000,Selesai
+CTR0337,SMA Darul Ulum 2,2025-04-25,2025-04-28,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0338,Suyono Astuti,2025-04-25,2025-04-27,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,45,35000,1575000,Selesai
+CTR0339,Bambang Handayani,2025-04-25,2025-04-25,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0340,Mimin Astuti,2025-04-26,2025-04-27,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,60,35000,2100000,Selesai
+CTR0341,Yuliana Hidayah,2025-04-26,2025-04-29,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,42,16000,672000,Selesai
+CTR0342,Rini Setiani,2025-04-26,2025-04-29,LS12,Lauk Satuan,Tahu Tempe Bacem,38,7000,266000,Selesai
+CTR0343,Heru Hadi,2025-04-26,,PN03,Paket Nasi,Nasi Bento,110,20000,2200000,Dibatalkan
+CTR0344,Suyono Sugiarto,2025-04-26,2025-04-29,LS08,Lauk Satuan,Mujair Goreng,53,20000,1060000,Selesai
+CTR0345,Wawan Basuki,2025-04-27,2025-04-29,LS02,Lauk Satuan,Ayam Goreng Lengkuas,39,18000,702000,Selesai
+CTR0346,Sutomo Sulastri,2025-04-27,2025-04-27,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,77,35000,2695000,Selesai
+CTR0347,Hartini Suryanto,2025-04-27,,PN07,Paket Nasi,Nasi Rendang Lapis,66,35000,2310000,Dibatalkan
+CTR0348,Darmi Winarni,2025-04-28,2025-05-04,PN03,Paket Nasi,Nasi Bento,48,20000,960000,Selesai
+CTR0349,Munir Fatimah,2025-04-28,2025-04-30,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,75,25000,1875000,Selesai
+CTR0350,Narto Rahayu,2025-04-28,2025-04-29,PN03,Paket Nasi,Nasi Bento,74,20000,1480000,Selesai
+CTR0351,Hartini Rahmawati,2025-04-28,2025-04-30,LS12,Lauk Satuan,Tahu Tempe Bacem,30,7000,210000,Selesai
+CTR0352,Sumarno Suparno,2025-04-28,2025-05-01,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,64,35000,2240000,Selesai
+CTR0353,Lilis Santoso,2025-04-29,2025-04-30,PN03,Paket Nasi,Nasi Bento,54,20000,1080000,Selesai
+CTR0354,Yudi Wati,2025-04-30,2025-05-03,LS05,Lauk Satuan,Ayam Kecap,30,17000,510000,Selesai
+CTR0355,Hasan Utami,2025-04-30,2025-05-01,PN08,Paket Nasi,Nasi Mujair Sambal,82,25000,2050000,Selesai
+CTR0356,Darto Aminah,2025-04-30,2025-05-06,PN04,Paket Nasi,Nasi Ayam Bakar,101,25000,2525000,Selesai
+CTR0357,Misbah Khasanah,2025-05-01,2025-05-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,45,23000,1035000,Selesai
+CTR0358,Rudi Rahayu,2025-05-01,2025-05-05,PN04,Paket Nasi,Nasi Ayam Bakar,60,25000,1500000,Selesai
+CTR0359,Yanti Prasetyo,2025-05-01,2025-05-03,PN07,Paket Nasi,Nasi Rendang Lapis,87,35000,3045000,Selesai
+CTR0360,Lastri Susanti,2025-05-02,2025-05-04,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,54,25000,1350000,Selesai
+CTR0361,Wawan Hidayat,2025-05-02,2025-05-06,LS14,Lauk Satuan,Telur Dadar Tebal,47,10000,470000,Selesai
+CTR0362,Yuni Mulyani,2025-05-02,2025-05-05,LS01,Lauk Satuan,Ayam Bakar,47,18000,846000,Selesai
+CTR0363,Marni Khasanah,2025-05-02,2025-05-04,LS01,Lauk Satuan,Ayam Bakar,48,18000,864000,Selesai
+CTR0364,Sri Prasetyo,2025-05-02,2025-05-06,PN07,Paket Nasi,Nasi Rendang Lapis,105,35000,3675000,Selesai
+CTR0365,Rukmini Wulandari,2025-05-02,2025-05-04,PN04,Paket Nasi,Nasi Ayam Bakar,43,25000,1075000,Selesai
+CTR0366,Narto Sari,2025-05-02,2025-05-04,PN08,Paket Nasi,Nasi Mujair Sambal,77,25000,1925000,Selesai
+CTR0367,Heni Purnama,2025-05-02,2025-05-05,LS04,Lauk Satuan,Ayam Teriyaki,35,18000,630000,Selesai
+CTR0368,Indah Kurniawan,2025-05-03,2025-05-06,LS05,Lauk Satuan,Ayam Kecap,64,17000,1088000,Selesai
+CTR0369,Kasim Suryanto,2025-05-03,2025-05-07,LS09,Lauk Satuan,Pepes Pindang,31,15000,465000,Selesai
+CTR0370,Hadi Fatimah,2025-05-04,2025-05-07,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,73,23000,1679000,Selesai
+CTR0371,Yanti Kusnadi,2025-05-04,2025-05-06,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0372,Kusno Hadi,2025-05-04,2025-05-06,PN04,Paket Nasi,Nasi Ayam Bakar,70,25000,1750000,Selesai
+CTR0373,Suwito Hartono,2025-05-05,2025-05-08,PN02,Paket Nasi,Nasi Kuning,95,35000,3325000,Selesai
+CTR0374,Imam Handayani,2025-05-05,2025-05-07,LS08,Lauk Satuan,Mujair Goreng,62,20000,1240000,Selesai
+CTR0375,Mansur Santoso,2025-05-05,2025-05-07,PN04,Paket Nasi,Nasi Ayam Bakar,47,25000,1175000,Selesai
+CTR0376,Yuliana Saputra,2025-05-05,2025-05-11,LS02,Lauk Satuan,Ayam Goreng Lengkuas,70,18000,1260000,Selesai
+CTR0377,Hadi Saputra,2025-05-06,2025-05-07,PN02,Paket Nasi,Nasi Kuning,88,35000,3080000,Selesai
+CTR0378,Fauzi Aminah,2025-05-06,2025-05-09,LS07,Lauk Satuan,Ayam Bali,36,18000,648000,Selesai
+CTR0379,Purnomo Mulyono,2025-05-07,2025-05-11,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0380,Budi Basuki,2025-05-07,2025-05-12,LS07,Lauk Satuan,Ayam Bali,56,18000,1008000,Selesai
+CTR0381,Mimin Utami,2025-05-07,2025-05-12,LS02,Lauk Satuan,Ayam Goreng Lengkuas,44,18000,792000,Selesai
+CTR0382,Sri Handayani,2025-05-07,2025-05-10,PN07,Paket Nasi,Nasi Rendang Lapis,45,35000,1575000,Selesai
+CTR0383,Agus Ningsih,2025-05-08,2025-05-09,PN07,Paket Nasi,Nasi Rendang Lapis,75,35000,2625000,Selesai
+CTR0384,Tutik Wulandari,2025-05-08,2025-05-11,PN08,Paket Nasi,Nasi Mujair Sambal,31,25000,775000,Selesai
+CTR0385,Indah Wibowo,2025-05-09,2025-05-11,PN08,Paket Nasi,Nasi Mujair Sambal,74,25000,1850000,Selesai
+CTR0386,Suyanto Khasanah,2025-05-09,2025-05-10,LS12,Lauk Satuan,Tahu Tempe Bacem,39,7000,273000,Selesai
+CTR0387,Herman Wati,2025-05-09,2025-05-12,PN03,Paket Nasi,Nasi Bento,102,20000,2040000,Selesai
+CTR0388,Murni Saputra,2025-05-09,2025-05-14,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,64,35000,2240000,Selesai
+CTR0389,Yanti Kurniawan,2025-05-09,2025-05-12,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,38,35000,1330000,Selesai
+CTR0390,Fauzi Kusuma,2025-05-09,2025-05-12,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,109,25000,2725000,Selesai
+CTR0391,Sumini Hartati,2025-05-10,2025-05-13,PN02,Paket Nasi,Nasi Kuning,29,35000,1015000,Selesai
+CTR0392,Sulastri Mulyono,2025-05-10,2025-05-15,LS12,Lauk Satuan,Tahu Tempe Bacem,30,7000,210000,Selesai
+CTR0393,Fauzi Astuti,2025-05-10,2025-05-11,PN07,Paket Nasi,Nasi Rendang Lapis,51,35000,1785000,Selesai
+CTR0394,Arif Wibowo,2025-05-10,2025-05-13,PN03,Paket Nasi,Nasi Bento,64,20000,1280000,Selesai
+CTR0395,SMK Darul Ulum 1,2025-05-10,2025-05-14,LS10,Lauk Satuan,Perkedel Kentang,56,5000,280000,Selesai
+CTR0396,Indah Hidayat,2025-05-10,2025-05-14,LS09,Lauk Satuan,Pepes Pindang,64,15000,960000,Selesai
+CTR0397,MA Unggulan Darul Ulum,2025-05-11,2025-05-17,PN07,Paket Nasi,Nasi Rendang Lapis,112,35000,3920000,Selesai
+CTR0398,Rukmini Kartini,2025-05-11,2025-05-12,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,46,35000,1610000,Selesai
+CTR0399,Aminah Slamet,2025-05-11,2025-05-13,LS14,Lauk Satuan,Telur Dadar Tebal,62,10000,620000,Selesai
+CTR0400,Munir Saputra,2025-05-12,2025-05-15,PN07,Paket Nasi,Nasi Rendang Lapis,88,35000,3080000,Selesai
+CTR0401,Erna Suparno,2025-05-13,2025-05-16,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,56,35000,1960000,Selesai
+CTR0402,Heru Hartati,2025-05-13,2025-05-15,PN04,Paket Nasi,Nasi Ayam Bakar,41,25000,1025000,Selesai
+CTR0403,Karti Yuliani,2025-05-14,2025-05-20,PA01,Paket Acara,Nasi Tumpeng Mini,11,45000,495000,Selesai
+CTR0404,Suyono Mulyono,2025-05-14,2025-05-17,PN08,Paket Nasi,Nasi Mujair Sambal,87,25000,2175000,Selesai
+CTR0405,Hartini Ningsih,2025-05-14,2025-05-17,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0406,Rohmah Astuti,2025-05-14,2025-05-16,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,77,23000,1771000,Selesai
+CTR0407,Slamet Mulyono,2025-05-15,2025-05-17,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,70,23000,1610000,Selesai
+CTR0408,Budi Sulastri,2025-05-15,2025-05-18,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0409,Suroso Ningsih,2025-05-15,2025-05-16,PN08,Paket Nasi,Nasi Mujair Sambal,29,25000,725000,Selesai
+CTR0410,Karti Saputra,2025-05-15,2025-05-18,PA01,Paket Acara,Nasi Tumpeng Mini,20,45000,900000,Selesai
+CTR0411,Suwarno Winarni,2025-05-15,2025-05-16,LS08,Lauk Satuan,Mujair Goreng,55,20000,1100000,Selesai
+CTR0412,Slamet Haryanto,2025-05-15,2025-05-20,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR0413,Didik Kartini,2025-05-16,2025-05-18,PN04,Paket Nasi,Nasi Ayam Bakar,92,25000,2300000,Selesai
+CTR0414,Ali Hartono,2025-05-16,2025-05-17,LS10,Lauk Satuan,Perkedel Kentang,63,5000,315000,Selesai
+CTR0415,Mujiono Sulastri,2025-05-16,2025-05-19,PN04,Paket Nasi,Nasi Ayam Bakar,35,25000,875000,Selesai
+CTR0416,Agus Khasanah,2025-05-16,2025-05-23,PN07,Paket Nasi,Nasi Rendang Lapis,58,35000,2030000,Selesai
+CTR0417,Rudi Slamet,2025-05-17,2025-05-20,LS11,Lauk Satuan,Bakwan Jagung,70,5000,350000,Selesai
+CTR0418,Hasan Winarni,2025-05-17,2025-05-23,LS09,Lauk Satuan,Pepes Pindang,63,15000,945000,Selesai
+CTR0419,Sumini Suyanto,2025-05-17,2025-05-19,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0420,Suwarti Sukardi,2025-05-18,2025-05-20,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,29,35000,1015000,Selesai
+CTR0421,Budi Saputra,2025-05-19,,LS04,Lauk Satuan,Ayam Teriyaki,55,18000,990000,Dibatalkan
+CTR0422,Sulastri Handayani,2025-05-19,2025-05-22,LS07,Lauk Satuan,Ayam Bali,53,18000,954000,Selesai
+CTR0423,SMK Darul Ulum 1,2025-05-19,2025-05-20,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,54,25000,1350000,Selesai
+CTR0424,Wulan Hartati,2025-05-19,2025-05-23,LS01,Lauk Satuan,Ayam Bakar,65,18000,1170000,Selesai
+CTR0425,Kholis Saputra,2025-05-20,2025-05-22,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,107,35000,3745000,Selesai
+CTR0426,Yuni Suyanto,2025-05-20,2025-05-22,LS05,Lauk Satuan,Ayam Kecap,68,17000,1156000,Selesai
+CTR0427,Bambang Mulyani,2025-05-20,2025-05-24,PN08,Paket Nasi,Nasi Mujair Sambal,78,25000,1950000,Selesai
+CTR0428,Rudi Suharti,2025-05-20,2025-05-21,PN04,Paket Nasi,Nasi Ayam Bakar,30,25000,750000,Selesai
+CTR0429,Imam Hartati,2025-05-20,2025-05-25,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,48,35000,1680000,Selesai
+CTR0430,Eko Mulyono,2025-05-21,2025-05-24,LS13,Lauk Satuan,Telur Balado,74,8000,592000,Selesai
+CTR0431,Hadi Sugiarto,2025-05-21,2025-05-22,LS10,Lauk Satuan,Perkedel Kentang,58,5000,290000,Selesai
+CTR0432,Mujiono Hartati,2025-05-21,,LS02,Lauk Satuan,Ayam Goreng Lengkuas,49,18000,882000,Dibatalkan
+CTR0433,Kustini Sugiarto,2025-05-21,2025-05-23,PN04,Paket Nasi,Nasi Ayam Bakar,55,25000,1375000,Selesai
+CTR0434,SMA Darul Ulum 3,2025-05-21,2025-05-22,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,2,350000,700000,Selesai
+CTR0435,Darto Hidayah,2025-05-22,2025-05-28,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,36,25000,900000,Selesai
+CTR0436,Suyono Utami,2025-05-22,2025-05-26,LS06,Lauk Satuan,Rendang Daging,50,28000,1400000,Selesai
+CTR0437,Suwarno Suryanto,2025-05-22,2025-05-27,PN07,Paket Nasi,Nasi Rendang Lapis,70,35000,2450000,Selesai
+CTR0438,Rohmah Hidayah,2025-05-23,2025-05-27,LS04,Lauk Satuan,Ayam Teriyaki,62,18000,1116000,Selesai
+CTR0439,Kasim Lestari,2025-05-23,2025-05-28,LS05,Lauk Satuan,Ayam Kecap,56,17000,952000,Selesai
+CTR0440,Suroso Setiani,2025-05-24,2025-05-27,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,89,25000,2225000,Selesai
+CTR0441,SMA Darul Ulum 1,2025-05-24,2025-05-27,LS07,Lauk Satuan,Ayam Bali,75,18000,1350000,Selesai
+CTR0442,Sumarno Sugiarto,2025-05-24,2025-05-26,LS09,Lauk Satuan,Pepes Pindang,30,15000,450000,Selesai
+CTR0443,Yudi Sugiarto,2025-05-24,2025-05-27,LS04,Lauk Satuan,Ayam Teriyaki,69,18000,1242000,Selesai
+CTR0444,Udin Lestari,2025-05-24,2025-05-26,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,78,25000,1950000,Selesai
+CTR0445,Hasan Basuki,2025-05-25,2025-05-28,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,84,23000,1932000,Selesai
+CTR0446,Munir Astuti,2025-05-25,2025-05-30,LS14,Lauk Satuan,Telur Dadar Tebal,46,10000,460000,Selesai
+CTR0447,Wawan Khasanah,2025-05-25,2025-05-29,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,94,25000,2350000,Selesai
+CTR0448,Pardi Kurniawan,2025-05-26,2025-05-30,LS13,Lauk Satuan,Telur Balado,30,8000,240000,Selesai
+CTR0449,Kustini Utami,2025-05-26,2025-05-27,LS06,Lauk Satuan,Rendang Daging,36,28000,1008000,Selesai
+CTR0450,Sri Siswanto,2025-05-27,2025-05-31,PN02,Paket Nasi,Nasi Kuning,83,35000,2905000,Selesai
+CTR0451,Hadi Suparno,2025-05-27,2025-05-29,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0452,Rohmah Wulandari,2025-05-27,2025-05-29,LS11,Lauk Satuan,Bakwan Jagung,65,5000,325000,Selesai
+CTR0453,Tono Kartini,2025-05-27,2025-06-03,PN03,Paket Nasi,Nasi Bento,77,20000,1540000,Selesai
+CTR0454,Suyanto Mulyani,2025-05-27,2025-05-31,LS10,Lauk Satuan,Perkedel Kentang,62,5000,310000,Selesai
+CTR0455,Suwito Yanto,2025-05-27,2025-06-01,LS10,Lauk Satuan,Perkedel Kentang,42,5000,210000,Selesai
+CTR0456,Nanik Wati,2025-05-27,2025-05-29,LS01,Lauk Satuan,Ayam Bakar,38,18000,684000,Selesai
+CTR0457,Ratna Prasetyo,2025-05-28,2025-05-29,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0458,Mulyono Rahayu,2025-05-28,2025-06-01,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0459,Suroso Hidayat,2025-05-28,2025-05-31,LS06,Lauk Satuan,Rendang Daging,60,28000,1680000,Selesai
+CTR0460,Ismail Hartati,2025-05-28,2025-06-02,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,68,23000,1564000,Selesai
+CTR0461,Rohman Suharti,2025-05-28,2025-05-28,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0462,Didik Setiawan,2025-05-29,2025-05-29,PN07,Paket Nasi,Nasi Rendang Lapis,25,35000,875000,Selesai
+CTR0463,Suyono Basuki,2025-05-29,2025-06-01,PN03,Paket Nasi,Nasi Bento,44,20000,880000,Selesai
+CTR0464,Ismail Basuki,2025-05-30,2025-06-02,LS11,Lauk Satuan,Bakwan Jagung,32,5000,160000,Selesai
+CTR0465,Sulastri Mulyani,2025-05-30,2025-06-01,PN08,Paket Nasi,Nasi Mujair Sambal,73,25000,1825000,Selesai
+CTR0466,Heru Suryanto,2025-06-01,2025-06-03,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,81,35000,2835000,Selesai
+CTR0467,Hartono Slamet,2025-06-01,2025-06-05,LS05,Lauk Satuan,Ayam Kecap,74,17000,1258000,Selesai
+CTR0468,Suhadi Haryanto,2025-06-01,2025-06-04,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,86,25000,2150000,Selesai
+CTR0469,Sutrisno Wibowo,2025-06-01,2025-06-04,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,83,23000,1909000,Selesai
+CTR0470,Nur Haryanto,2025-06-01,2025-06-03,PN04,Paket Nasi,Nasi Ayam Bakar,44,25000,1100000,Selesai
+CTR0471,Ali Suyanto,2025-06-01,2025-06-01,PN03,Paket Nasi,Nasi Bento,25,20000,500000,Selesai
+CTR0472,Rini Suryadi,2025-06-01,2025-06-03,LS09,Lauk Satuan,Pepes Pindang,71,15000,1065000,Selesai
+CTR0473,Kustini Hadi,2025-06-02,2025-06-04,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,93,35000,3255000,Selesai
+CTR0474,Marni Rahmawati,2025-06-02,2025-06-07,LS07,Lauk Satuan,Ayam Bali,73,18000,1314000,Selesai
+CTR0475,Imam Winarni,2025-06-02,2025-06-05,PN03,Paket Nasi,Nasi Bento,26,20000,520000,Selesai
+CTR0476,Dewi Rohmah,2025-06-02,2025-06-03,PN08,Paket Nasi,Nasi Mujair Sambal,36,25000,900000,Selesai
+CTR0477,Dewi Siswanto,2025-06-02,2025-06-03,PN08,Paket Nasi,Nasi Mujair Sambal,110,25000,2750000,Selesai
+CTR0478,Siti Saputra,2025-06-02,,LS08,Lauk Satuan,Mujair Goreng,48,20000,960000,Dibatalkan
+CTR0479,Hartono Fatimah,2025-06-02,,PN07,Paket Nasi,Nasi Rendang Lapis,59,35000,2065000,Dibatalkan
+CTR0480,MTsN 2 Jombang,2025-06-03,2025-06-05,LS05,Lauk Satuan,Ayam Kecap,48,17000,816000,Selesai
+CTR0481,SMA Darul Ulum 1,2025-06-03,2025-06-08,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,45,25000,1125000,Selesai
+CTR0482,Lina Rohman,2025-06-03,,PN08,Paket Nasi,Nasi Mujair Sambal,78,25000,1950000,Dibatalkan
+CTR0483,Imam Hartono,2025-06-03,2025-06-06,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,75,23000,1725000,Selesai
+CTR0484,Marni Aminah,2025-06-04,2025-06-07,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,52,35000,1820000,Selesai
+CTR0485,MA Unggulan Darul Ulum,2025-06-04,2025-06-08,PN02,Paket Nasi,Nasi Kuning,68,35000,2380000,Selesai
+CTR0486,SMA Darul Ulum 1,2025-06-04,2025-06-07,LS07,Lauk Satuan,Ayam Bali,63,18000,1134000,Selesai
+CTR0487,Tono Suyanto,2025-06-04,2025-06-05,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,59,23000,1357000,Selesai
+CTR0488,Murni Kusuma,2025-06-04,2025-06-06,PA01,Paket Acara,Nasi Tumpeng Mini,5,45000,225000,Selesai
+CTR0489,Imam Wati,2025-06-04,2025-06-09,PN03,Paket Nasi,Nasi Bento,43,20000,860000,Selesai
+CTR0490,Udin Setiani,2025-06-05,2025-06-07,LS05,Lauk Satuan,Ayam Kecap,49,17000,833000,Selesai
+CTR0491,Bambang Mulyono,2025-06-05,2025-06-07,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,50,23000,1150000,Selesai
+CTR0492,Rudi Sukardi,2025-06-05,2025-06-08,PA01,Paket Acara,Nasi Tumpeng Mini,5,45000,225000,Selesai
+CTR0493,Wati Mulyono,2025-06-05,2025-06-08,LS10,Lauk Satuan,Perkedel Kentang,55,5000,275000,Selesai
+CTR0494,Wahyu Suyanto,2025-06-06,2025-06-13,PN04,Paket Nasi,Nasi Ayam Bakar,41,25000,1025000,Selesai
+CTR0495,Agus Hartono,2025-06-06,2025-06-08,PN07,Paket Nasi,Nasi Rendang Lapis,60,35000,2100000,Selesai
+CTR0496,Syamsul Rahayu,2025-06-06,2025-06-10,LS07,Lauk Satuan,Ayam Bali,75,18000,1350000,Selesai
+CTR0497,Wulan Wibowo,2025-06-06,2025-06-07,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0498,Rini Suwandi,2025-06-06,2025-06-08,LS04,Lauk Satuan,Ayam Teriyaki,69,18000,1242000,Selesai
+CTR0499,Slamet Suryanto,2025-06-06,2025-06-08,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0500,MA Unggulan Darul Ulum,2025-06-07,2025-06-12,PN07,Paket Nasi,Nasi Rendang Lapis,93,35000,3255000,Selesai
+CTR0501,Hartono Hadi,2025-06-07,,LS01,Lauk Satuan,Ayam Bakar,35,18000,630000,Dibatalkan
+CTR0502,Bambang Saputra,2025-06-07,2025-06-07,PN04,Paket Nasi,Nasi Ayam Bakar,90,25000,2250000,Selesai
+CTR0503,Joko Wulandari,2025-06-07,2025-06-08,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,29,25000,725000,Selesai
+CTR0504,Agus Suparno,2025-06-07,2025-06-10,PN04,Paket Nasi,Nasi Ayam Bakar,83,25000,2075000,Selesai
+CTR0505,Sri Rohmah,2025-06-08,2025-06-10,LS01,Lauk Satuan,Ayam Bakar,34,18000,612000,Selesai
+CTR0506,Suyanto Wulandari,2025-06-09,2025-06-13,PN04,Paket Nasi,Nasi Ayam Bakar,67,25000,1675000,Selesai
+CTR0507,Rohman Sutrisno,2025-06-09,2025-06-10,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,67,25000,1675000,Selesai
+CTR0508,SMA Darul Ulum 1,2025-06-09,2025-06-10,LS05,Lauk Satuan,Ayam Kecap,42,17000,714000,Selesai
+CTR0509,Kasim Setiawan,2025-06-10,2025-06-12,LS11,Lauk Satuan,Bakwan Jagung,55,5000,275000,Selesai
+CTR0510,Kholis Hartati,2025-06-10,2025-06-13,PN07,Paket Nasi,Nasi Rendang Lapis,101,35000,3535000,Selesai
+CTR0511,Bambang Wibowo,2025-06-10,2025-06-11,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,45,25000,1125000,Selesai
+CTR0512,Sulastri Wati,2025-06-10,2025-06-14,PN03,Paket Nasi,Nasi Bento,65,20000,1300000,Selesai
+CTR0513,Rohmah Saputra,2025-06-11,2025-06-12,LS04,Lauk Satuan,Ayam Teriyaki,54,18000,972000,Selesai
+CTR0514,MTs Plus Darul Ulum,2025-06-11,2025-06-16,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0515,Misbah Yuliani,2025-06-11,2025-06-11,PN07,Paket Nasi,Nasi Rendang Lapis,30,35000,1050000,Selesai
+CTR0516,Nanik Sugiarto,2025-06-12,2025-06-18,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,55,25000,1375000,Selesai
+CTR0517,Joko Purnama,2025-06-12,2025-06-17,PN07,Paket Nasi,Nasi Rendang Lapis,66,35000,2310000,Selesai
+CTR0518,Karti Wibowo,2025-06-12,2025-06-15,PN04,Paket Nasi,Nasi Ayam Bakar,36,25000,900000,Selesai
+CTR0519,SMK Telkom Darul Ulum,2025-06-13,2025-06-18,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,159,23000,3657000,Selesai
+CTR0520,Udin Wulandari,2025-06-13,2025-06-15,PN07,Paket Nasi,Nasi Rendang Lapis,30,35000,1050000,Selesai
+CTR0521,Yanto Sari,2025-06-14,2025-06-16,LS05,Lauk Satuan,Ayam Kecap,46,17000,782000,Selesai
+CTR0522,Nur Suwandi,2025-06-14,2025-06-19,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0523,Siti Setiani,2025-06-15,2025-06-18,LS13,Lauk Satuan,Telur Balado,42,8000,336000,Selesai
+CTR0524,Ratna Kurniawan,2025-06-15,2025-06-16,LS05,Lauk Satuan,Ayam Kecap,62,17000,1054000,Selesai
+CTR0525,Misbah Susanti,2025-06-15,2025-06-18,LS12,Lauk Satuan,Tahu Tempe Bacem,30,7000,210000,Selesai
+CTR0526,Sumarno Haryanto,2025-06-16,2025-06-21,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,37,16000,592000,Selesai
+CTR0527,Heni Sari,2025-06-16,2025-06-22,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,34,23000,782000,Selesai
+CTR0528,MTs Plus Darul Ulum,2025-06-16,2025-06-21,PN08,Paket Nasi,Nasi Mujair Sambal,46,25000,1150000,Selesai
+CTR0529,Sutrisno Kusnadi,2025-06-16,2025-06-17,LS07,Lauk Satuan,Ayam Bali,43,18000,774000,Selesai
+CTR0530,Rohmah Suwandi,2025-06-16,2025-06-19,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,112,23000,2576000,Selesai
+CTR0531,Eko Widodo,2025-06-17,2025-06-21,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,69,35000,2415000,Selesai
+CTR0532,Hartono Mulyani,2025-06-17,2025-06-20,PA01,Paket Acara,Nasi Tumpeng Mini,34,45000,1530000,Selesai
+CTR0533,Suhadi Yuliani,2025-06-18,2025-06-22,PN07,Paket Nasi,Nasi Rendang Lapis,59,35000,2065000,Selesai
+CTR0534,Nur Prasetyo,2025-06-18,2025-06-19,LS14,Lauk Satuan,Telur Dadar Tebal,41,10000,410000,Selesai
+CTR0535,Tutik Santoso,2025-06-18,2025-06-24,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0536,Ningsih Suharto,2025-06-19,2025-06-23,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0537,SMA Darul Ulum 3,2025-06-19,2025-06-24,PN04,Paket Nasi,Nasi Ayam Bakar,122,25000,3050000,Selesai
+CTR0538,Syamsul Sugiarto,2025-06-19,2025-06-23,PN07,Paket Nasi,Nasi Rendang Lapis,46,35000,1610000,Selesai
+CTR0539,Mimin Suwandi,2025-06-20,2025-06-23,PN08,Paket Nasi,Nasi Mujair Sambal,64,25000,1600000,Selesai
+CTR0540,Tatik Suyanto,2025-06-20,2025-06-20,PA01,Paket Acara,Nasi Tumpeng Mini,16,45000,720000,Selesai
+CTR0541,Yuni Setiani,2025-06-21,2025-06-23,LS04,Lauk Satuan,Ayam Teriyaki,30,18000,540000,Selesai
+CTR0542,Ida Fatimah,2025-06-21,2025-06-21,PN02,Paket Nasi,Nasi Kuning,64,35000,2240000,Selesai
+CTR0543,SMK Telkom Darul Ulum,2025-06-22,2025-06-22,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,76,23000,1748000,Selesai
+CTR0544,SMK Darul Ulum 1,2025-06-22,2025-06-27,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0545,Yuliana Suharti,2025-06-23,2025-06-23,LS04,Lauk Satuan,Ayam Teriyaki,63,18000,1134000,Selesai
+CTR0546,Hartini Haryanto,2025-06-23,2025-06-27,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0547,Sumini Hadi,2025-06-23,2025-06-25,PN04,Paket Nasi,Nasi Ayam Bakar,26,25000,650000,Selesai
+CTR0548,Mimin Hidayah,2025-06-23,2025-06-26,LS08,Lauk Satuan,Mujair Goreng,60,20000,1200000,Selesai
+CTR0549,Sutomo Mulyono,2025-06-23,2025-06-26,LS04,Lauk Satuan,Ayam Teriyaki,43,18000,774000,Selesai
+CTR0550,Imam Haryanto,2025-06-24,2025-06-25,LS08,Lauk Satuan,Mujair Goreng,71,20000,1420000,Selesai
+CTR0551,Yanto Astuti,2025-06-24,2025-06-28,PN04,Paket Nasi,Nasi Ayam Bakar,82,25000,2050000,Selesai
+CTR0552,Pardi Mulyono,2025-06-25,2025-06-29,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,37,16000,592000,Selesai
+CTR0553,Suwito Hidayat,2025-06-26,2025-06-29,LS01,Lauk Satuan,Ayam Bakar,75,18000,1350000,Selesai
+CTR0554,Mimin Rahmawati,2025-06-26,2025-07-01,LS05,Lauk Satuan,Ayam Kecap,39,17000,663000,Selesai
+CTR0555,Mansur Siswanto,2025-06-26,2025-06-29,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,94,25000,2350000,Selesai
+CTR0556,Slamet Santoso,2025-06-26,2025-06-29,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,102,25000,2550000,Selesai
+CTR0557,Joko Rahmawati,2025-06-27,,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Dibatalkan
+CTR0558,Yuni Winarni,2025-06-27,2025-06-29,PN04,Paket Nasi,Nasi Ayam Bakar,46,25000,1150000,Selesai
+CTR0559,Rini Hidayat,2025-06-28,2025-07-02,LS09,Lauk Satuan,Pepes Pindang,56,15000,840000,Selesai
+CTR0560,Yuni Riyanto,2025-06-28,2025-07-03,LS05,Lauk Satuan,Ayam Kecap,71,17000,1207000,Selesai
+CTR0561,SMA Darul Ulum 3,2025-06-29,2025-07-01,LS01,Lauk Satuan,Ayam Bakar,51,18000,918000,Selesai
+CTR0562,Suwarno Mulyono,2025-06-30,2025-07-03,LS09,Lauk Satuan,Pepes Pindang,75,15000,1125000,Selesai
+CTR0563,Kasim Hartati,2025-06-30,2025-07-02,PN07,Paket Nasi,Nasi Rendang Lapis,106,35000,3710000,Selesai
+CTR0564,Dewi Suryanto,2025-06-30,2025-07-01,LS13,Lauk Satuan,Telur Balado,72,8000,576000,Selesai
+CTR0565,Darto Widodo,2025-06-30,2025-07-03,PN08,Paket Nasi,Nasi Mujair Sambal,76,25000,1900000,Selesai
+CTR0566,Budi Hidayah,2025-07-01,2025-07-04,LS13,Lauk Satuan,Telur Balado,67,8000,536000,Selesai
+CTR0567,Sutomo Khasanah,2025-07-01,2025-07-05,LS13,Lauk Satuan,Telur Balado,67,8000,536000,Selesai
+CTR0568,Syamsul Suparno,2025-07-01,2025-07-03,LS06,Lauk Satuan,Rendang Daging,57,28000,1596000,Selesai
+CTR0569,Sutomo Kusuma,2025-07-01,2025-07-02,PN02,Paket Nasi,Nasi Kuning,109,35000,3815000,Selesai
+CTR0570,Lilis Sugiarto,2025-07-02,2025-07-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,51,25000,1275000,Selesai
+CTR0571,Tini Kusnadi,2025-07-02,2025-07-08,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,63,23000,1449000,Selesai
+CTR0572,MAN 2 Jombang,2025-07-02,2025-07-06,LS11,Lauk Satuan,Bakwan Jagung,54,5000,270000,Selesai
+CTR0573,Mujiono Yuliani,2025-07-02,2025-07-04,PN07,Paket Nasi,Nasi Rendang Lapis,44,35000,1540000,Selesai
+CTR0574,Kusno Suparno,2025-07-03,2025-07-06,PN07,Paket Nasi,Nasi Rendang Lapis,99,35000,3465000,Selesai
+CTR0575,Ani Utami,2025-07-04,2025-07-07,LS02,Lauk Satuan,Ayam Goreng Lengkuas,71,18000,1278000,Selesai
+CTR0576,Marni Lestari,2025-07-04,2025-07-05,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,49,35000,1715000,Selesai
+CTR0577,Purnomo Purnama,2025-07-05,2025-07-06,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,72,35000,2520000,Selesai
+CTR0578,Hasan Suharto,2025-07-06,2025-07-11,PN07,Paket Nasi,Nasi Rendang Lapis,75,35000,2625000,Selesai
+CTR0579,Udin Rahmawati,2025-07-06,2025-07-10,PN08,Paket Nasi,Nasi Mujair Sambal,38,25000,950000,Selesai
+CTR0580,Wahyu Yanto,2025-07-06,2025-07-12,LS10,Lauk Satuan,Perkedel Kentang,49,5000,245000,Selesai
+CTR0581,Sulastri Suparno,2025-07-06,2025-07-08,LS12,Lauk Satuan,Tahu Tempe Bacem,47,7000,329000,Selesai
+CTR0582,Rudi Suparno,2025-07-07,2025-07-09,PN07,Paket Nasi,Nasi Rendang Lapis,44,35000,1540000,Selesai
+CTR0583,Erna Suharto,2025-07-07,2025-07-13,PN07,Paket Nasi,Nasi Rendang Lapis,68,35000,2380000,Selesai
+CTR0584,MAN 2 Jombang,2025-07-08,2025-07-10,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,87,25000,2175000,Selesai
+CTR0585,Erna Fatimah,2025-07-09,2025-07-12,PN03,Paket Nasi,Nasi Bento,99,20000,1980000,Selesai
+CTR0586,Heni Suwandi,2025-07-09,2025-07-11,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,31,16000,496000,Selesai
+CTR0587,Siti Rahmawati,2025-07-09,2025-07-12,LS05,Lauk Satuan,Ayam Kecap,52,17000,884000,Selesai
+CTR0588,MTsN 2 Jombang,2025-07-09,2025-07-12,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,148,23000,3404000,Selesai
+CTR0589,Sutomo Sukardi,2025-07-09,2025-07-12,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,42,23000,966000,Selesai
+CTR0590,Suwarti Wati,2025-07-10,2025-07-17,LS09,Lauk Satuan,Pepes Pindang,60,15000,900000,Selesai
+CTR0591,Siti Hidayat,2025-07-10,2025-07-12,PN08,Paket Nasi,Nasi Mujair Sambal,59,25000,1475000,Selesai
+CTR0592,MA Unggulan Darul Ulum,2025-07-11,2025-07-14,PN08,Paket Nasi,Nasi Mujair Sambal,168,25000,4200000,Selesai
+CTR0593,Mulyono Hadi,2025-07-11,2025-07-13,PN08,Paket Nasi,Nasi Mujair Sambal,57,25000,1425000,Selesai
+CTR0594,Suyanto Setiawan,2025-07-11,2025-07-14,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0595,Suroso Basuki,2025-07-11,2025-07-14,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,77,35000,2695000,Selesai
+CTR0596,Sukardi Astuti,2025-07-12,2025-07-13,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,56,35000,1960000,Selesai
+CTR0597,Ani Ningsih,2025-07-12,2025-07-15,LS09,Lauk Satuan,Pepes Pindang,53,15000,795000,Selesai
+CTR0598,Suhadi Hartati,2025-07-13,2025-07-16,LS13,Lauk Satuan,Telur Balado,65,8000,520000,Selesai
+CTR0599,Rukmini Mulyono,2025-07-14,2025-07-17,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0600,Udin Suparno,2025-07-14,2025-07-16,PN02,Paket Nasi,Nasi Kuning,77,35000,2695000,Selesai
+CTR0601,Suhadi Suryadi,2025-07-15,2025-07-17,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0602,Sumarno Mulyani,2025-07-15,2025-07-18,PN08,Paket Nasi,Nasi Mujair Sambal,62,25000,1550000,Selesai
+CTR0603,Hasan Suyanto,2025-07-15,2025-07-18,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,54,23000,1242000,Selesai
+CTR0604,Wulan Widodo,2025-07-15,2025-07-20,LS13,Lauk Satuan,Telur Balado,52,8000,416000,Selesai
+CTR0605,Kasim Kusnadi,2025-07-16,2025-07-18,LS01,Lauk Satuan,Ayam Bakar,54,18000,972000,Selesai
+CTR0606,Suwarti Mulyani,2025-07-17,2025-07-21,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,71,23000,1633000,Selesai
+CTR0607,Wahyu Kusuma,2025-07-17,2025-07-21,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0608,Tono Setiani,2025-07-17,2025-07-20,LS12,Lauk Satuan,Tahu Tempe Bacem,67,7000,469000,Selesai
+CTR0609,Darto Fatimah,2025-07-18,2025-07-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,52,23000,1196000,Selesai
+CTR0610,Sugi Suharti,2025-07-19,2025-07-20,LS14,Lauk Satuan,Telur Dadar Tebal,54,10000,540000,Selesai
+CTR0611,Sukardi Hadi,2025-07-19,2025-07-22,LS13,Lauk Satuan,Telur Balado,60,8000,480000,Selesai
+CTR0612,Suroso Riyanto,2025-07-21,2025-07-22,PN07,Paket Nasi,Nasi Rendang Lapis,64,35000,2240000,Selesai
+CTR0613,Udin Setiawan,2025-07-21,2025-07-27,LS12,Lauk Satuan,Tahu Tempe Bacem,34,7000,238000,Selesai
+CTR0614,Ningsih Suharti,2025-07-22,2025-07-23,PN07,Paket Nasi,Nasi Rendang Lapis,105,35000,3675000,Selesai
+CTR0615,Didik Khasanah,2025-07-22,2025-07-25,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,37,23000,851000,Selesai
+CTR0616,SMK Telkom Darul Ulum,2025-07-22,2025-07-25,PN08,Paket Nasi,Nasi Mujair Sambal,131,25000,3275000,Selesai
+CTR0617,Wati Rohmah,2025-07-22,2025-07-25,PN02,Paket Nasi,Nasi Kuning,107,35000,3745000,Selesai
+CTR0618,SMA Darul Ulum 2,2025-07-22,2025-07-25,LS02,Lauk Satuan,Ayam Goreng Lengkuas,107,18000,1926000,Selesai
+CTR0619,Sutomo Astuti,2025-07-22,,LS13,Lauk Satuan,Telur Balado,42,8000,336000,Dibatalkan
+CTR0620,Budi Kurniawan,2025-07-23,2025-07-25,PN02,Paket Nasi,Nasi Kuning,91,35000,3185000,Selesai
+CTR0621,Ida Aminah,2025-07-23,2025-07-25,PN03,Paket Nasi,Nasi Bento,65,20000,1300000,Selesai
+CTR0622,Endang Suparno,2025-07-23,2025-07-25,PN04,Paket Nasi,Nasi Ayam Bakar,62,25000,1550000,Selesai
+CTR0623,Didik Mulyono,2025-07-24,2025-07-27,PN02,Paket Nasi,Nasi Kuning,42,35000,1470000,Selesai
+CTR0624,Erna Aminah,2025-07-24,2025-07-27,LS12,Lauk Satuan,Tahu Tempe Bacem,48,7000,336000,Selesai
+CTR0625,Lina Kurniawan,2025-07-25,2025-07-26,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,59,25000,1475000,Selesai
+CTR0626,Suroso Hidayah,2025-07-25,2025-07-27,PN03,Paket Nasi,Nasi Bento,81,20000,1620000,Selesai
+CTR0627,Fauzi Handayani,2025-07-25,2025-07-27,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,112,23000,2576000,Selesai
+CTR0628,Yanti Fatimah,2025-07-25,2025-07-27,PN02,Paket Nasi,Nasi Kuning,39,35000,1365000,Selesai
+CTR0629,Sumini Sukardi,2025-07-25,2025-07-27,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,73,23000,1679000,Selesai
+CTR0630,Hartono Suparno,2025-07-25,2025-08-01,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,90,23000,2070000,Selesai
+CTR0631,Fauzi Winarni,2025-07-26,2025-07-28,PN04,Paket Nasi,Nasi Ayam Bakar,59,25000,1475000,Selesai
+CTR0632,Udin Rohmah,2025-07-26,2025-07-28,PN04,Paket Nasi,Nasi Ayam Bakar,77,25000,1925000,Selesai
+CTR0633,SMA Darul Ulum 1,2025-07-26,2025-07-27,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,56,23000,1288000,Selesai
+CTR0634,SMK Telkom Darul Ulum,2025-07-27,2025-07-28,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,70,25000,1750000,Selesai
+CTR0635,Suwarno Kusnadi,2025-07-27,2025-08-03,PA01,Paket Acara,Nasi Tumpeng Mini,14,45000,630000,Selesai
+CTR0636,Narto Hartono,2025-07-27,2025-07-28,LS02,Lauk Satuan,Ayam Goreng Lengkuas,34,18000,612000,Selesai
+CTR0637,Imam Mulyani,2025-07-27,2025-07-27,LS12,Lauk Satuan,Tahu Tempe Bacem,68,7000,476000,Selesai
+CTR0638,Bambang Suryanto,2025-07-28,2025-07-30,LS02,Lauk Satuan,Ayam Goreng Lengkuas,67,18000,1206000,Selesai
+CTR0639,Wulan Riyanto,2025-07-28,2025-07-29,LS12,Lauk Satuan,Tahu Tempe Bacem,69,7000,483000,Selesai
+CTR0640,SMK Darul Ulum 1,2025-07-28,2025-08-03,PN03,Paket Nasi,Nasi Bento,58,20000,1160000,Selesai
+CTR0641,Yuliana Sulastri,2025-07-28,2025-07-29,PN07,Paket Nasi,Nasi Rendang Lapis,33,35000,1155000,Selesai
+CTR0642,Lina Khasanah,2025-07-28,2025-08-01,PN03,Paket Nasi,Nasi Bento,54,20000,1080000,Selesai
+CTR0643,Hasan Saputra,2025-07-28,2025-07-29,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,35,23000,805000,Selesai
+CTR0644,Syamsul Hartono,2025-07-28,2025-08-02,PN02,Paket Nasi,Nasi Kuning,101,35000,3535000,Selesai
+CTR0645,MTsN 2 Jombang,2025-07-29,2025-08-03,LS06,Lauk Satuan,Rendang Daging,78,28000,2184000,Selesai
+CTR0646,Lina Hidayat,2025-07-30,2025-08-02,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,99,23000,2277000,Selesai
+CTR0647,Tutik Suryanto,2025-07-30,2025-08-01,LS09,Lauk Satuan,Pepes Pindang,71,15000,1065000,Selesai
+CTR0648,Rini Ningsih,2025-07-31,2025-08-01,LS08,Lauk Satuan,Mujair Goreng,39,20000,780000,Selesai
+CTR0649,Yanto Wati,2025-07-31,2025-07-31,LS07,Lauk Satuan,Ayam Bali,48,18000,864000,Selesai
+CTR0650,Wahyu Aminah,2025-07-31,2025-08-05,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,114,23000,2622000,Selesai
+CTR0651,Heni Suryadi,2025-07-31,2025-08-01,LS01,Lauk Satuan,Ayam Bakar,48,18000,864000,Selesai
+CTR0652,Ali Astuti,2025-07-31,2025-08-02,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,103,25000,2575000,Selesai
+CTR0653,Yuni Haryanto,2025-07-31,2025-08-03,PN07,Paket Nasi,Nasi Rendang Lapis,32,35000,1120000,Selesai
+CTR0654,Lastri Fatimah,2025-08-01,2025-08-03,LS09,Lauk Satuan,Pepes Pindang,60,15000,900000,Selesai
+CTR0655,SMK Telkom Darul Ulum,2025-08-01,2025-08-04,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,155,35000,5425000,Selesai
+CTR0656,Erna Mulyani,2025-08-02,2025-08-03,LS02,Lauk Satuan,Ayam Goreng Lengkuas,51,18000,918000,Selesai
+CTR0657,Munir Yanto,2025-08-02,2025-08-04,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,48,25000,1200000,Selesai
+CTR0658,Siti Astuti,2025-08-03,2025-08-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,65,25000,1625000,Selesai
+CTR0659,Suwarti Suwandi,2025-08-03,2025-08-06,LS12,Lauk Satuan,Tahu Tempe Bacem,51,7000,357000,Selesai
+CTR0660,Indah Fatimah,2025-08-03,2025-08-04,LS10,Lauk Satuan,Perkedel Kentang,61,5000,305000,Selesai
+CTR0661,Arif Utami,2025-08-04,,PN02,Paket Nasi,Nasi Kuning,75,35000,2625000,Dibatalkan
+CTR0662,Lilis Purnama,2025-08-04,2025-08-05,LS14,Lauk Satuan,Telur Dadar Tebal,45,10000,450000,Selesai
+CTR0663,Suroso Mulyono,2025-08-05,2025-08-08,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0664,Kholis Suwandi,2025-08-05,2025-08-08,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0665,Mujiono Yanto,2025-08-05,2025-08-07,LS02,Lauk Satuan,Ayam Goreng Lengkuas,34,18000,612000,Selesai
+CTR0666,Teguh Wibowo,2025-08-05,2025-08-06,PN02,Paket Nasi,Nasi Kuning,107,35000,3745000,Selesai
+CTR0667,Heru Khasanah,2025-08-05,2025-08-09,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,103,23000,2369000,Selesai
+CTR0668,Imam Basuki,2025-08-06,2025-08-13,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,74,16000,1184000,Selesai
+CTR0669,Ali Santoso,2025-08-06,2025-08-12,PA01,Paket Acara,Nasi Tumpeng Mini,20,45000,900000,Selesai
+CTR0670,Hartono Hidayah,2025-08-06,2025-08-07,LS14,Lauk Satuan,Telur Dadar Tebal,40,10000,400000,Selesai
+CTR0671,Wati Saputra,2025-08-06,2025-08-11,PN08,Paket Nasi,Nasi Mujair Sambal,85,25000,2125000,Selesai
+CTR0672,Mulyono Sugiarto,2025-08-07,2025-08-12,LS12,Lauk Satuan,Tahu Tempe Bacem,63,7000,441000,Selesai
+CTR0673,Syamsul Hidayah,2025-08-07,2025-08-11,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,38,35000,1330000,Selesai
+CTR0674,Wati Kartini,2025-08-07,2025-08-11,PN03,Paket Nasi,Nasi Bento,46,20000,920000,Selesai
+CTR0675,Suyono Hidayat,2025-08-07,2025-08-13,LS08,Lauk Satuan,Mujair Goreng,53,20000,1060000,Selesai
+CTR0676,Purnomo Sukardi,2025-08-08,2025-08-12,PN08,Paket Nasi,Nasi Mujair Sambal,53,25000,1325000,Selesai
+CTR0677,Suroso Yuliani,2025-08-08,2025-08-09,PN08,Paket Nasi,Nasi Mujair Sambal,61,25000,1525000,Selesai
+CTR0678,Lastri Siswanto,2025-08-09,2025-08-11,LS06,Lauk Satuan,Rendang Daging,54,28000,1512000,Selesai
+CTR0679,Indah Khasanah,2025-08-09,2025-08-12,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0680,Yuliana Sari,2025-08-10,2025-08-12,LS08,Lauk Satuan,Mujair Goreng,70,20000,1400000,Selesai
+CTR0681,Ningsih Kurniawan,2025-08-10,2025-08-11,LS10,Lauk Satuan,Perkedel Kentang,50,5000,250000,Selesai
+CTR0682,Fauzi Yuliani,2025-08-10,2025-08-15,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0683,Sugi Suyanto,2025-08-10,2025-08-12,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,27,23000,621000,Selesai
+CTR0684,Sumini Yanto,2025-08-11,2025-08-13,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,103,25000,2575000,Selesai
+CTR0685,Suminah Riyanto,2025-08-11,2025-08-16,LS09,Lauk Satuan,Pepes Pindang,56,15000,840000,Selesai
+CTR0686,Wahyu Siswanto,2025-08-11,2025-08-12,PN02,Paket Nasi,Nasi Kuning,25,35000,875000,Selesai
+CTR0687,Fauzi Sugiarto,2025-08-11,2025-08-16,PN08,Paket Nasi,Nasi Mujair Sambal,78,25000,1950000,Selesai
+CTR0688,Sumarno Yanto,2025-08-11,2025-08-13,LS11,Lauk Satuan,Bakwan Jagung,30,5000,150000,Selesai
+CTR0689,Yudi Lestari,2025-08-12,2025-08-14,PN02,Paket Nasi,Nasi Kuning,73,35000,2555000,Selesai
+CTR0690,Darto Rahayu,2025-08-12,2025-08-13,LS12,Lauk Satuan,Tahu Tempe Bacem,37,7000,259000,Selesai
+CTR0691,Herman Rohman,2025-08-12,2025-08-14,LS13,Lauk Satuan,Telur Balado,53,8000,424000,Selesai
+CTR0692,Imam Hadi,2025-08-12,2025-08-16,PN03,Paket Nasi,Nasi Bento,61,20000,1220000,Selesai
+CTR0693,Kasim Utami,2025-08-12,2025-08-15,PN03,Paket Nasi,Nasi Bento,55,20000,1100000,Selesai
+CTR0694,Sulastri Basuki,2025-08-12,2025-08-16,LS09,Lauk Satuan,Pepes Pindang,55,15000,825000,Selesai
+CTR0695,Erna Wulandari,2025-08-12,2025-08-14,LS13,Lauk Satuan,Telur Balado,59,8000,472000,Selesai
+CTR0696,MAN 2 Jombang,2025-08-13,2025-08-14,LS07,Lauk Satuan,Ayam Bali,54,18000,972000,Selesai
+CTR0697,Wulan Rahayu,2025-08-13,2025-08-15,LS02,Lauk Satuan,Ayam Goreng Lengkuas,43,18000,774000,Selesai
+CTR0698,Suwito Mulyani,2025-08-13,2025-08-15,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0699,Rukmini Hartono,2025-08-13,2025-08-15,PN03,Paket Nasi,Nasi Bento,37,20000,740000,Selesai
+CTR0700,Yanto Slamet,2025-08-13,2025-08-14,PN07,Paket Nasi,Nasi Rendang Lapis,55,35000,1925000,Selesai
+CTR0701,Wahyu Ningsih,2025-08-13,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,44,35000,1540000,Dibatalkan
+CTR0702,Nanik Sari,2025-08-14,2025-08-16,PN03,Paket Nasi,Nasi Bento,103,20000,2060000,Selesai
+CTR0703,Yanto Fatimah,2025-08-14,2025-08-19,LS11,Lauk Satuan,Bakwan Jagung,35,5000,175000,Selesai
+CTR0704,Yanto Suryanto,2025-08-15,2025-08-19,LS06,Lauk Satuan,Rendang Daging,61,28000,1708000,Selesai
+CTR0705,Mulyono Handayani,2025-08-15,2025-08-17,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,53,23000,1219000,Selesai
+CTR0706,Teguh Sulastri,2025-08-15,2025-08-17,LS11,Lauk Satuan,Bakwan Jagung,32,5000,160000,Selesai
+CTR0707,Yudi Yanto,2025-08-15,2025-08-18,PN08,Paket Nasi,Nasi Mujair Sambal,73,25000,1825000,Selesai
+CTR0708,Herman Utami,2025-08-16,2025-08-19,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,36,23000,828000,Selesai
+CTR0709,Tatik Prasetyo,2025-08-17,2025-08-18,LS09,Lauk Satuan,Pepes Pindang,49,15000,735000,Selesai
+CTR0710,Narto Setiani,2025-08-17,2025-08-17,PA01,Paket Acara,Nasi Tumpeng Mini,35,45000,1575000,Selesai
+CTR0711,Dewi Kurniawan,2025-08-18,,PN08,Paket Nasi,Nasi Mujair Sambal,69,25000,1725000,Dibatalkan
+CTR0712,Suyanto Rohman,2025-08-19,,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,42,16000,672000,Dibatalkan
+CTR0713,SMK Darul Ulum 1,2025-08-19,2025-08-22,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,68,25000,1700000,Selesai
+CTR0714,Tini Aminah,2025-08-19,2025-08-25,PN08,Paket Nasi,Nasi Mujair Sambal,81,25000,2025000,Selesai
+CTR0715,Syamsul Astuti,2025-08-19,2025-08-22,PN08,Paket Nasi,Nasi Mujair Sambal,40,25000,1000000,Selesai
+CTR0716,Tono Prasetyo,2025-08-19,2025-08-20,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,2,650000,1300000,Selesai
+CTR0717,Siti Wulandari,2025-08-20,2025-08-22,PN08,Paket Nasi,Nasi Mujair Sambal,65,25000,1625000,Selesai
+CTR0718,Yuliana Hidayat,2025-08-20,2025-08-23,PN08,Paket Nasi,Nasi Mujair Sambal,40,25000,1000000,Selesai
+CTR0719,Yanto Ningsih,2025-08-21,2025-08-22,LS08,Lauk Satuan,Mujair Goreng,50,20000,1000000,Selesai
+CTR0720,SMA Darul Ulum 3,2025-08-22,2025-08-24,PN07,Paket Nasi,Nasi Rendang Lapis,56,35000,1960000,Selesai
+CTR0721,Erna Kartini,2025-08-23,2025-08-25,PN08,Paket Nasi,Nasi Mujair Sambal,115,25000,2875000,Selesai
+CTR0722,Siti Sutrisno,2025-08-23,2025-08-27,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,43,23000,989000,Selesai
+CTR0723,Ningsih Kusnadi,2025-08-24,2025-08-28,PN08,Paket Nasi,Nasi Mujair Sambal,76,25000,1900000,Selesai
+CTR0724,Lilis Wulandari,2025-08-24,2025-08-24,LS10,Lauk Satuan,Perkedel Kentang,51,5000,255000,Selesai
+CTR0725,Sutomo Rahayu,2025-08-25,2025-08-27,LS07,Lauk Satuan,Ayam Bali,46,18000,828000,Selesai
+CTR0726,Suminah Mulyono,2025-08-25,2025-08-27,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,44,35000,1540000,Selesai
+CTR0727,Sugi Rohman,2025-08-25,2025-08-29,PN07,Paket Nasi,Nasi Rendang Lapis,54,35000,1890000,Selesai
+CTR0728,Tini Slamet,2025-08-25,2025-08-27,LS02,Lauk Satuan,Ayam Goreng Lengkuas,65,18000,1170000,Selesai
+CTR0729,Suminah Suparno,2025-08-25,2025-08-28,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0730,Ningsih Hadi,2025-08-27,2025-09-01,PN08,Paket Nasi,Nasi Mujair Sambal,102,25000,2550000,Selesai
+CTR0731,Ali Sutrisno,2025-08-28,2025-08-30,PN08,Paket Nasi,Nasi Mujair Sambal,32,25000,800000,Selesai
+CTR0732,Erna Suyanto,2025-08-28,2025-08-30,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,76,25000,1900000,Selesai
+CTR0733,Tono Sari,2025-08-28,2025-09-01,LS08,Lauk Satuan,Mujair Goreng,63,20000,1260000,Selesai
+CTR0734,Sari Wulandari,2025-08-28,2025-09-02,PN08,Paket Nasi,Nasi Mujair Sambal,56,25000,1400000,Selesai
+CTR0735,Wulan Sulastri,2025-08-28,2025-08-29,LS11,Lauk Satuan,Bakwan Jagung,37,5000,185000,Selesai
+CTR0736,Lina Mulyani,2025-08-28,2025-08-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,80,25000,2000000,Selesai
+CTR0737,Darmi Hidayah,2025-08-28,2025-08-31,LS05,Lauk Satuan,Ayam Kecap,30,17000,510000,Selesai
+CTR0738,Yudi Sulastri,2025-08-29,2025-09-03,PN02,Paket Nasi,Nasi Kuning,37,35000,1295000,Selesai
+CTR0739,Joko Khasanah,2025-08-29,2025-08-31,PN04,Paket Nasi,Nasi Ayam Bakar,110,25000,2750000,Selesai
+CTR0740,Sumini Rahmawati,2025-08-30,,LS14,Lauk Satuan,Telur Dadar Tebal,40,10000,400000,Dibatalkan
+CTR0741,Hartini Rohman,2025-08-30,2025-09-02,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,43,25000,1075000,Selesai
+CTR0742,Tatik Hidayat,2025-08-30,2025-09-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,39,25000,975000,Selesai
+CTR0743,Ningsih Yanto,2025-08-31,2025-09-06,PN07,Paket Nasi,Nasi Rendang Lapis,77,35000,2695000,Selesai
+CTR0744,Suwito Rahayu,2025-08-31,2025-09-01,PN04,Paket Nasi,Nasi Ayam Bakar,51,25000,1275000,Selesai
+CTR0745,Syamsul Ningsih,2025-08-31,2025-09-03,PN02,Paket Nasi,Nasi Kuning,110,35000,3850000,Selesai
+CTR0746,Yuni Widodo,2025-09-01,2025-09-06,PN04,Paket Nasi,Nasi Ayam Bakar,57,25000,1425000,Selesai
+CTR0747,Pardi Susanti,2025-09-01,2025-09-05,LS06,Lauk Satuan,Rendang Daging,34,28000,952000,Selesai
+CTR0748,SMA Darul Ulum 3,2025-09-01,2025-09-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,142,23000,3266000,Selesai
+CTR0749,Tutik Suparno,2025-09-02,2025-09-05,PN02,Paket Nasi,Nasi Kuning,57,35000,1995000,Selesai
+CTR0750,Darmi Utami,2025-09-02,2025-09-07,LS12,Lauk Satuan,Tahu Tempe Bacem,62,7000,434000,Selesai
+CTR0751,Kasim Hidayah,2025-09-02,2025-09-04,LS09,Lauk Satuan,Pepes Pindang,64,15000,960000,Selesai
+CTR0752,Lina Suryadi,2025-09-03,2025-09-09,LS05,Lauk Satuan,Ayam Kecap,60,17000,1020000,Selesai
+CTR0753,Tutik Suyanto,2025-09-03,2025-09-03,LS08,Lauk Satuan,Mujair Goreng,57,20000,1140000,Selesai
+CTR0754,Suyono Suharti,2025-09-03,2025-09-05,LS04,Lauk Satuan,Ayam Teriyaki,66,18000,1188000,Selesai
+CTR0755,Rukmini Santoso,2025-09-04,2025-09-05,LS09,Lauk Satuan,Pepes Pindang,49,15000,735000,Selesai
+CTR0756,Rohmah Aminah,2025-09-04,2025-09-06,LS05,Lauk Satuan,Ayam Kecap,39,17000,663000,Selesai
+CTR0757,Eko Suharti,2025-09-04,2025-09-07,LS14,Lauk Satuan,Telur Dadar Tebal,37,10000,370000,Selesai
+CTR0758,Mansur Aminah,2025-09-04,2025-09-05,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,38,23000,874000,Selesai
+CTR0759,Marni Suwandi,2025-09-04,2025-09-06,PN07,Paket Nasi,Nasi Rendang Lapis,43,35000,1505000,Selesai
+CTR0760,SMK Darul Ulum 1,2025-09-05,2025-09-08,PN07,Paket Nasi,Nasi Rendang Lapis,79,35000,2765000,Selesai
+CTR0761,Mansur Sukardi,2025-09-07,2025-09-10,PN03,Paket Nasi,Nasi Bento,72,20000,1440000,Selesai
+CTR0762,Darmi Handayani,2025-09-07,2025-09-09,PN03,Paket Nasi,Nasi Bento,91,20000,1820000,Selesai
+CTR0763,Budi Haryanto,2025-09-07,2025-09-07,PN03,Paket Nasi,Nasi Bento,104,20000,2080000,Selesai
+CTR0764,Suhadi Lestari,2025-09-07,2025-09-09,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0765,Udin Utami,2025-09-07,2025-09-08,LS09,Lauk Satuan,Pepes Pindang,62,15000,930000,Selesai
+CTR0766,Narto Winarni,2025-09-08,2025-09-13,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,43,25000,1075000,Selesai
+CTR0767,Erna Setiani,2025-09-08,2025-09-09,PN03,Paket Nasi,Nasi Bento,47,20000,940000,Selesai
+CTR0768,Kusno Suharto,2025-09-08,2025-09-10,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,63,35000,2205000,Selesai
+CTR0769,Mansur Suharti,2025-09-08,2025-09-08,LS01,Lauk Satuan,Ayam Bakar,75,18000,1350000,Selesai
+CTR0770,Rukmini Mulyani,2025-09-08,2025-09-10,LS04,Lauk Satuan,Ayam Teriyaki,46,18000,828000,Selesai
+CTR0771,Wati Sari,2025-09-09,2025-09-11,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,81,25000,2025000,Selesai
+CTR0772,Misbah Basuki,2025-09-09,,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Dibatalkan
+CTR0773,Nanik Mulyono,2025-09-09,2025-09-13,LS10,Lauk Satuan,Perkedel Kentang,67,5000,335000,Selesai
+CTR0774,Ningsih Rohman,2025-09-10,2025-09-11,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,59,25000,1475000,Selesai
+CTR0775,Tatik Slamet,2025-09-11,2025-09-15,LS12,Lauk Satuan,Tahu Tempe Bacem,35,7000,245000,Selesai
+CTR0776,Wati Aminah,2025-09-11,2025-09-18,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,107,23000,2461000,Selesai
+CTR0777,Herman Prasetyo,2025-09-11,2025-09-13,LS14,Lauk Satuan,Telur Dadar Tebal,53,10000,530000,Selesai
+CTR0778,Tatik Sulastri,2025-09-12,2025-09-17,LS12,Lauk Satuan,Tahu Tempe Bacem,41,7000,287000,Selesai
+CTR0779,Tini Sutrisno,2025-09-12,2025-09-13,PA01,Paket Acara,Nasi Tumpeng Mini,39,45000,1755000,Selesai
+CTR0780,Udin Fatimah,2025-09-12,2025-09-13,PN02,Paket Nasi,Nasi Kuning,55,35000,1925000,Selesai
+CTR0781,SMA Darul Ulum 1,2025-09-12,2025-09-12,LS09,Lauk Satuan,Pepes Pindang,50,15000,750000,Selesai
+CTR0782,Murni Fatimah,2025-09-12,2025-09-12,LS06,Lauk Satuan,Rendang Daging,62,28000,1736000,Selesai
+CTR0783,SMK Darul Ulum 1,2025-09-12,2025-09-17,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,116,35000,4060000,Selesai
+CTR0784,Karti Suharto,2025-09-12,2025-09-15,PN07,Paket Nasi,Nasi Rendang Lapis,31,35000,1085000,Selesai
+CTR0785,Ida Sutrisno,2025-09-13,2025-09-13,LS07,Lauk Satuan,Ayam Bali,31,18000,558000,Selesai
+CTR0786,Lilis Kartini,2025-09-13,2025-09-18,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,75,25000,1875000,Selesai
+CTR0787,Tutik Hidayat,2025-09-13,2025-09-15,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,94,35000,3290000,Selesai
+CTR0788,Pardi Rohmah,2025-09-13,2025-09-15,LS10,Lauk Satuan,Perkedel Kentang,35,5000,175000,Selesai
+CTR0789,Yuliana Suryadi,2025-09-14,2025-09-16,LS14,Lauk Satuan,Telur Dadar Tebal,31,10000,310000,Selesai
+CTR0790,Sutrisno Wulandari,2025-09-14,2025-09-18,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,28,25000,700000,Selesai
+CTR0791,Kustini Slamet,2025-09-14,,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Dibatalkan
+CTR0792,Joko Wibowo,2025-09-15,2025-09-17,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,42,35000,1470000,Selesai
+CTR0793,Rohman Yuliani,2025-09-15,2025-09-18,LS12,Lauk Satuan,Tahu Tempe Bacem,37,7000,259000,Selesai
+CTR0794,Sutomo Riyanto,2025-09-15,2025-09-19,PN02,Paket Nasi,Nasi Kuning,78,35000,2730000,Selesai
+CTR0795,Slamet Hidayah,2025-09-16,2025-09-22,LS09,Lauk Satuan,Pepes Pindang,51,15000,765000,Selesai
+CTR0796,Sumini Wati,2025-09-16,2025-09-17,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,61,25000,1525000,Selesai
+CTR0797,Indah Suryadi,2025-09-17,2025-09-24,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,31,16000,496000,Selesai
+CTR0798,Herman Sulastri,2025-09-17,2025-09-24,LS02,Lauk Satuan,Ayam Goreng Lengkuas,43,18000,774000,Selesai
+CTR0799,Suhadi Siswanto,2025-09-17,2025-09-21,PN03,Paket Nasi,Nasi Bento,74,20000,1480000,Selesai
+CTR0800,Kusno Sari,2025-09-17,2025-09-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,88,23000,2024000,Selesai
+CTR0801,Wati Handayani,2025-09-18,2025-09-20,PN07,Paket Nasi,Nasi Rendang Lapis,44,35000,1540000,Selesai
+CTR0802,MAN 2 Jombang,2025-09-18,2025-09-18,PN07,Paket Nasi,Nasi Rendang Lapis,118,35000,4130000,Selesai
+CTR0803,Lilis Rahmawati,2025-09-19,2025-09-21,PN04,Paket Nasi,Nasi Ayam Bakar,53,25000,1325000,Selesai
+CTR0804,Munir Santoso,2025-09-19,2025-09-22,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,40,35000,1400000,Selesai
+CTR0805,Rohmah Widodo,2025-09-19,2025-09-21,PN07,Paket Nasi,Nasi Rendang Lapis,42,35000,1470000,Selesai
+CTR0806,Wahyu Susanti,2025-09-19,2025-09-19,PN07,Paket Nasi,Nasi Rendang Lapis,89,35000,3115000,Selesai
+CTR0807,Yuni Sulastri,2025-09-20,2025-09-23,LS01,Lauk Satuan,Ayam Bakar,34,18000,612000,Selesai
+CTR0808,Sukardi Suharto,2025-09-20,2025-09-26,PN08,Paket Nasi,Nasi Mujair Sambal,55,25000,1375000,Selesai
+CTR0809,Darmi Setiawan,2025-09-20,2025-09-24,PN04,Paket Nasi,Nasi Ayam Bakar,99,25000,2475000,Selesai
+CTR0810,Suwarti Saputra,2025-09-20,2025-09-21,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,29,25000,725000,Selesai
+CTR0811,Suyanto Aminah,2025-09-20,2025-09-25,PN03,Paket Nasi,Nasi Bento,46,20000,920000,Selesai
+CTR0812,Kholis Purnama,2025-09-21,2025-09-22,PN08,Paket Nasi,Nasi Mujair Sambal,78,25000,1950000,Selesai
+CTR0813,Darto Wati,2025-09-21,2025-09-23,LS04,Lauk Satuan,Ayam Teriyaki,52,18000,936000,Selesai
+CTR0814,Hartini Prasetyo,2025-09-21,2025-09-24,PN08,Paket Nasi,Nasi Mujair Sambal,49,25000,1225000,Selesai
+CTR0815,Syamsul Suharto,2025-09-21,2025-09-26,LS01,Lauk Satuan,Ayam Bakar,68,18000,1224000,Selesai
+CTR0816,SMA Darul Ulum 1,2025-09-22,2025-09-25,PN08,Paket Nasi,Nasi Mujair Sambal,131,25000,3275000,Selesai
+CTR0817,Wawan Astuti,2025-09-22,2025-09-26,PN02,Paket Nasi,Nasi Kuning,112,35000,3920000,Selesai
+CTR0818,Tatik Sukardi,2025-09-22,2025-09-26,PN03,Paket Nasi,Nasi Bento,99,20000,1980000,Selesai
+CTR0819,Mujiono Rohmah,2025-09-23,2025-09-23,PN08,Paket Nasi,Nasi Mujair Sambal,29,25000,725000,Selesai
+CTR0820,Yuliana Setiawan,2025-09-23,2025-09-26,PN03,Paket Nasi,Nasi Bento,32,20000,640000,Selesai
+CTR0821,Wawan Fatimah,2025-09-23,2025-09-27,PN07,Paket Nasi,Nasi Rendang Lapis,65,35000,2275000,Selesai
+CTR0822,Teguh Siswanto,2025-09-24,2025-09-27,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0823,Heni Rahmawati,2025-09-24,2025-09-29,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0824,Ali Rahmawati,2025-09-25,2025-09-26,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,112,25000,2800000,Selesai
+CTR0825,Indah Prasetyo,2025-09-25,2025-09-26,PN04,Paket Nasi,Nasi Ayam Bakar,44,25000,1100000,Selesai
+CTR0826,Sugi Sutrisno,2025-09-25,2025-09-28,PN04,Paket Nasi,Nasi Ayam Bakar,84,25000,2100000,Selesai
+CTR0827,Hasan Hidayat,2025-09-25,2025-09-27,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR0828,Mulyono Hartati,2025-09-26,2025-09-26,PN02,Paket Nasi,Nasi Kuning,29,35000,1015000,Selesai
+CTR0829,Sulastri Wulandari,2025-09-27,2025-10-03,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR0830,Ida Haryanto,2025-09-27,2025-09-29,PN04,Paket Nasi,Nasi Ayam Bakar,57,25000,1425000,Selesai
+CTR0831,Wulan Yanto,2025-09-27,2025-10-02,LS05,Lauk Satuan,Ayam Kecap,65,17000,1105000,Selesai
+CTR0832,Suyanto Hidayat,2025-09-28,2025-09-30,PN08,Paket Nasi,Nasi Mujair Sambal,78,25000,1950000,Selesai
+CTR0833,Lilis Widodo,2025-09-28,2025-09-30,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,107,35000,3745000,Selesai
+CTR0834,Wulan Suyanto,2025-09-28,2025-09-30,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,31,25000,775000,Selesai
+CTR0835,Agus Mulyono,2025-09-29,2025-10-02,PN07,Paket Nasi,Nasi Rendang Lapis,58,35000,2030000,Selesai
+CTR0836,Suwarno Wati,2025-09-29,2025-10-04,LS04,Lauk Satuan,Ayam Teriyaki,56,18000,1008000,Selesai
+CTR0837,Sumini Yuliani,2025-09-29,2025-09-30,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,41,35000,1435000,Selesai
+CTR0838,Wulan Slamet,2025-09-29,2025-10-01,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,52,35000,1820000,Selesai
+CTR0839,Sutomo Suwandi,2025-09-29,2025-09-30,LS02,Lauk Satuan,Ayam Goreng Lengkuas,38,18000,684000,Selesai
+CTR0840,Yanto Susanti,2025-09-30,2025-09-30,LS09,Lauk Satuan,Pepes Pindang,55,15000,825000,Selesai
+CTR0841,Sukardi Sari,2025-09-30,2025-10-05,PN04,Paket Nasi,Nasi Ayam Bakar,39,25000,975000,Selesai
+CTR0842,Ratna Siswanto,2025-09-30,2025-10-02,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0843,Suminah Sugiarto,2025-10-01,2025-10-05,PN08,Paket Nasi,Nasi Mujair Sambal,28,25000,700000,Selesai
+CTR0844,Suyanto Susanti,2025-10-01,2025-10-03,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR0845,Darmi Widodo,2025-10-01,2025-10-06,PN03,Paket Nasi,Nasi Bento,37,20000,740000,Selesai
+CTR0846,SMK Telkom Darul Ulum,2025-10-01,2025-10-02,PN08,Paket Nasi,Nasi Mujair Sambal,120,25000,3000000,Selesai
+CTR0847,Tini Ningsih,2025-10-03,2025-10-09,PN02,Paket Nasi,Nasi Kuning,56,35000,1960000,Selesai
+CTR0848,Suroso Kusuma,2025-10-03,2025-10-08,LS07,Lauk Satuan,Ayam Bali,44,18000,792000,Selesai
+CTR0849,Rudi Mulyani,2025-10-03,2025-10-07,LS06,Lauk Satuan,Rendang Daging,68,28000,1904000,Selesai
+CTR0850,Rohmah Riyanto,2025-10-03,2025-10-07,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,115,25000,2875000,Selesai
+CTR0851,Pardi Suparno,2025-10-04,2025-10-04,LS07,Lauk Satuan,Ayam Bali,54,18000,972000,Selesai
+CTR0852,Aminah Suryadi,2025-10-04,2025-10-06,PN07,Paket Nasi,Nasi Rendang Lapis,83,35000,2905000,Selesai
+CTR0853,Hartini Riyanto,2025-10-04,,PN03,Paket Nasi,Nasi Bento,27,20000,540000,Dibatalkan
+CTR0854,Suhadi Suharto,2025-10-05,,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Dibatalkan
+CTR0855,Sulastri Ningsih,2025-10-05,2025-10-06,LS08,Lauk Satuan,Mujair Goreng,37,20000,740000,Selesai
+CTR0856,Ratna Setiawan,2025-10-05,2025-10-11,PN03,Paket Nasi,Nasi Bento,115,20000,2300000,Selesai
+CTR0857,Eko Rahayu,2025-10-06,2025-10-11,LS13,Lauk Satuan,Telur Balado,70,8000,560000,Selesai
+CTR0858,Sumarno Khasanah,2025-10-06,2025-10-08,PN04,Paket Nasi,Nasi Ayam Bakar,75,25000,1875000,Selesai
+CTR0859,Narto Riyanto,2025-10-07,2025-10-08,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,70,35000,2450000,Selesai
+CTR0860,Ida Rohmah,2025-10-07,2025-10-11,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR0861,Yanti Suparno,2025-10-07,2025-10-09,PN08,Paket Nasi,Nasi Mujair Sambal,60,25000,1500000,Selesai
+CTR0862,Sri Sari,2025-10-07,2025-10-10,PN03,Paket Nasi,Nasi Bento,27,20000,540000,Selesai
+CTR0863,Sulastri Setiani,2025-10-07,,PN03,Paket Nasi,Nasi Bento,33,20000,660000,Dibatalkan
+CTR0864,Munir Hadi,2025-10-08,2025-10-08,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,41,25000,1025000,Selesai
+CTR0865,Erna Ningsih,2025-10-08,2025-10-10,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,44,16000,704000,Selesai
+CTR0866,Dewi Wulandari,2025-10-08,2025-10-09,PN04,Paket Nasi,Nasi Ayam Bakar,70,25000,1750000,Selesai
+CTR0867,Purnomo Wibowo,2025-10-09,2025-10-10,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,66,25000,1650000,Selesai
+CTR0868,Yuni Purnama,2025-10-09,2025-10-11,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,115,23000,2645000,Selesai
+CTR0869,Yuni Saputra,2025-10-10,2025-10-13,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,32,35000,1120000,Selesai
+CTR0870,Teguh Rahmawati,2025-10-10,2025-10-11,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,105,35000,3675000,Selesai
+CTR0871,Kustini Mulyono,2025-10-10,2025-10-12,LS06,Lauk Satuan,Rendang Daging,52,28000,1456000,Selesai
+CTR0872,Joko Suwandi,2025-10-10,,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,100,25000,2500000,Dibatalkan
+CTR0873,Eko Sutrisno,2025-10-10,2025-10-14,LS12,Lauk Satuan,Tahu Tempe Bacem,71,7000,497000,Selesai
+CTR0874,Heni Prasetyo,2025-10-11,2025-10-15,LS09,Lauk Satuan,Pepes Pindang,44,15000,660000,Selesai
+CTR0875,Siti Siswanto,2025-10-11,,LS01,Lauk Satuan,Ayam Bakar,35,18000,630000,Dibatalkan
+CTR0876,Erna Slamet,2025-10-11,2025-10-14,PN02,Paket Nasi,Nasi Kuning,57,35000,1995000,Selesai
+CTR0877,Tini Santoso,2025-10-11,2025-10-12,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,115,23000,2645000,Selesai
+CTR0878,Kusno Hidayat,2025-10-12,2025-10-13,PN07,Paket Nasi,Nasi Rendang Lapis,40,35000,1400000,Selesai
+CTR0879,Dewi Rahmawati,2025-10-12,,PN03,Paket Nasi,Nasi Bento,57,20000,1140000,Dibatalkan
+CTR0880,Ani Rohmah,2025-10-12,2025-10-14,PN04,Paket Nasi,Nasi Ayam Bakar,103,25000,2575000,Selesai
+CTR0881,Rohman Suharto,2025-10-13,2025-10-14,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,83,25000,2075000,Selesai
+CTR0882,Karti Suharti,2025-10-13,2025-10-16,PA01,Paket Acara,Nasi Tumpeng Mini,17,45000,765000,Selesai
+CTR0883,Dewi Hadi,2025-10-14,2025-10-17,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0884,Herman Sutrisno,2025-10-14,2025-10-16,LS02,Lauk Satuan,Ayam Goreng Lengkuas,40,18000,720000,Selesai
+CTR0885,Heru Sulastri,2025-10-14,2025-10-17,LS14,Lauk Satuan,Telur Dadar Tebal,37,10000,370000,Selesai
+CTR0886,Sugi Sari,2025-10-15,2025-10-17,PN08,Paket Nasi,Nasi Mujair Sambal,46,25000,1150000,Selesai
+CTR0887,Ningsih Suparno,2025-10-15,2025-10-17,LS13,Lauk Satuan,Telur Balado,38,8000,304000,Selesai
+CTR0888,Misbah Wati,2025-10-15,2025-10-17,PN03,Paket Nasi,Nasi Bento,39,20000,780000,Selesai
+CTR0889,Darto Setiani,2025-10-16,2025-10-16,LS12,Lauk Satuan,Tahu Tempe Bacem,33,7000,231000,Selesai
+CTR0890,Ani Wulandari,2025-10-17,2025-10-19,LS09,Lauk Satuan,Pepes Pindang,48,15000,720000,Selesai
+CTR0891,Hasan Yanto,2025-10-17,,LS02,Lauk Satuan,Ayam Goreng Lengkuas,36,18000,648000,Dibatalkan
+CTR0892,Ratna Mulyani,2025-10-18,2025-10-22,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,76,35000,2660000,Selesai
+CTR0893,Rudi Siswanto,2025-10-18,2025-10-21,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR0894,MA Unggulan Darul Ulum,2025-10-18,2025-10-22,PA01,Paket Acara,Nasi Tumpeng Mini,82,45000,3690000,Selesai
+CTR0895,SMP Darul Ulum 1,2025-10-19,2025-10-22,PN04,Paket Nasi,Nasi Ayam Bakar,74,25000,1850000,Selesai
+CTR0896,Joko Sari,2025-10-19,2025-10-25,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0897,Pardi Mulyani,2025-10-19,2025-10-22,LS08,Lauk Satuan,Mujair Goreng,55,20000,1100000,Selesai
+CTR0898,Yanto Utami,2025-10-19,2025-10-21,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,28,23000,644000,Selesai
+CTR0899,Sutomo Hartono,2025-10-19,2025-10-21,PN02,Paket Nasi,Nasi Kuning,78,35000,2730000,Selesai
+CTR0900,Arif Widodo,2025-10-20,2025-10-25,LS01,Lauk Satuan,Ayam Bakar,66,18000,1188000,Selesai
+CTR0901,Mulyono Rohmah,2025-10-20,2025-10-21,LS07,Lauk Satuan,Ayam Bali,41,18000,738000,Selesai
+CTR0902,Ismail Susanti,2025-10-20,,PN04,Paket Nasi,Nasi Ayam Bakar,115,25000,2875000,Dibatalkan
+CTR0903,Darmi Yuliani,2025-10-20,2025-10-22,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,1,350000,350000,Selesai
+CTR0904,Kusno Rahmawati,2025-10-20,2025-10-23,PN08,Paket Nasi,Nasi Mujair Sambal,49,25000,1225000,Selesai
+CTR0905,Sumarno Siswanto,2025-10-20,2025-10-25,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,35,23000,805000,Selesai
+CTR0906,Imam Wibowo,2025-10-21,2025-10-24,PN02,Paket Nasi,Nasi Kuning,88,35000,3080000,Selesai
+CTR0907,Bambang Sugiarto,2025-10-21,2025-10-23,LS01,Lauk Satuan,Ayam Bakar,61,18000,1098000,Selesai
+CTR0908,Eko Lestari,2025-10-21,2025-10-23,PN07,Paket Nasi,Nasi Rendang Lapis,84,35000,2940000,Selesai
+CTR0909,Nur Rahayu,2025-10-21,2025-10-27,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,45,16000,720000,Selesai
+CTR0910,Sari Astuti,2025-10-22,,LS04,Lauk Satuan,Ayam Teriyaki,62,18000,1116000,Dibatalkan
+CTR0911,Agus Sugiarto,2025-10-23,2025-10-25,LS10,Lauk Satuan,Perkedel Kentang,34,5000,170000,Selesai
+CTR0912,MTs Plus Darul Ulum,2025-10-23,2025-10-26,PN07,Paket Nasi,Nasi Rendang Lapis,56,35000,1960000,Selesai
+CTR0913,Heni Suharto,2025-10-23,2025-10-25,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR0914,Suhadi Sukardi,2025-10-23,2025-10-25,LS08,Lauk Satuan,Mujair Goreng,64,20000,1280000,Selesai
+CTR0915,Bambang Rohman,2025-10-24,2025-10-25,PN08,Paket Nasi,Nasi Mujair Sambal,80,25000,2000000,Selesai
+CTR0916,MTs Plus Darul Ulum,2025-10-24,2025-10-29,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,71,23000,1633000,Selesai
+CTR0917,Hartono Rohmah,2025-10-24,2025-10-26,LS07,Lauk Satuan,Ayam Bali,66,18000,1188000,Selesai
+CTR0918,Sari Rahayu,2025-10-24,2025-10-28,LS10,Lauk Satuan,Perkedel Kentang,61,5000,305000,Selesai
+CTR0919,Yanto Kusuma,2025-10-24,2025-10-24,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,50,25000,1250000,Selesai
+CTR0920,Ali Winarni,2025-10-25,2025-10-27,LS09,Lauk Satuan,Pepes Pindang,38,15000,570000,Selesai
+CTR0921,Yanto Mulyono,2025-10-25,2025-10-29,LS09,Lauk Satuan,Pepes Pindang,32,15000,480000,Selesai
+CTR0922,Heru Suparno,2025-10-25,2025-10-26,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,70,35000,2450000,Selesai
+CTR0923,Tatik Saputra,2025-10-25,2025-10-27,LS06,Lauk Satuan,Rendang Daging,58,28000,1624000,Selesai
+CTR0924,Suwito Suyanto,2025-10-26,2025-10-28,PN02,Paket Nasi,Nasi Kuning,31,35000,1085000,Selesai
+CTR0925,Yuni Suryadi,2025-10-27,2025-10-29,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,67,23000,1541000,Selesai
+CTR0926,Ida Susanti,2025-10-28,2025-10-29,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,2,650000,1300000,Selesai
+CTR0927,MTs Plus Darul Ulum,2025-10-28,2025-10-29,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR0928,Fauzi Rohmah,2025-10-28,2025-10-31,PN02,Paket Nasi,Nasi Kuning,63,35000,2205000,Selesai
+CTR0929,Yanti Lestari,2025-10-29,2025-11-02,PN03,Paket Nasi,Nasi Bento,87,20000,1740000,Selesai
+CTR0930,Sutrisno Basuki,2025-10-29,2025-11-01,PA01,Paket Acara,Nasi Tumpeng Mini,22,45000,990000,Selesai
+CTR0931,Suwarti Kartini,2025-10-29,2025-10-30,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,52,35000,1820000,Selesai
+CTR0932,Karti Hartati,2025-10-29,2025-11-03,PN02,Paket Nasi,Nasi Kuning,87,35000,3045000,Selesai
+CTR0933,Arif Hadi,2025-10-29,2025-10-31,LS10,Lauk Satuan,Perkedel Kentang,60,5000,300000,Selesai
+CTR0934,Sukardi Suparno,2025-10-30,2025-10-30,LS09,Lauk Satuan,Pepes Pindang,75,15000,1125000,Selesai
+CTR0935,Mansur Fatimah,2025-10-30,2025-11-01,PN03,Paket Nasi,Nasi Bento,78,20000,1560000,Selesai
+CTR0936,Pardi Lestari,2025-10-30,2025-11-06,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR0937,Yuni Hartono,2025-10-30,2025-10-31,LS04,Lauk Satuan,Ayam Teriyaki,54,18000,972000,Selesai
+CTR0938,Lastri Sugiarto,2025-10-30,2025-10-31,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0939,Sumini Haryanto,2025-10-31,2025-11-02,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,4,950000,3800000,Selesai
+CTR0940,Lastri Sukardi,2025-10-31,2025-11-03,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR0941,Siti Kusuma,2025-10-31,2025-11-03,PN08,Paket Nasi,Nasi Mujair Sambal,51,25000,1275000,Selesai
+CTR0942,Ali Yuliani,2025-10-31,2025-11-02,LS08,Lauk Satuan,Mujair Goreng,68,20000,1360000,Selesai
+CTR0943,Agus Handayani,2025-10-31,2025-11-03,LS11,Lauk Satuan,Bakwan Jagung,58,5000,290000,Selesai
+CTR0944,Lina Purnama,2025-10-31,2025-11-02,PN08,Paket Nasi,Nasi Mujair Sambal,51,25000,1275000,Selesai
+CTR0945,Sutomo Mulyani,2025-10-31,2025-11-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,115,23000,2645000,Selesai
+CTR0946,Sri Wibowo,2025-11-01,2025-11-04,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,76,25000,1900000,Selesai
+CTR0947,MA Unggulan Darul Ulum,2025-11-01,2025-11-01,LS11,Lauk Satuan,Bakwan Jagung,64,5000,320000,Selesai
+CTR0948,Heni Mulyono,2025-11-01,2025-11-04,PN04,Paket Nasi,Nasi Ayam Bakar,68,25000,1700000,Selesai
+CTR0949,Darmi Kusuma,2025-11-02,2025-11-04,LS09,Lauk Satuan,Pepes Pindang,61,15000,915000,Selesai
+CTR0950,Darmi Hidayat,2025-11-02,2025-11-04,LS12,Lauk Satuan,Tahu Tempe Bacem,44,7000,308000,Selesai
+CTR0951,Misbah Sulastri,2025-11-02,2025-11-06,LS06,Lauk Satuan,Rendang Daging,30,28000,840000,Selesai
+CTR0952,Fauzi Sulastri,2025-11-02,2025-11-04,LS11,Lauk Satuan,Bakwan Jagung,64,5000,320000,Selesai
+CTR0953,Sumarno Basuki,2025-11-02,2025-11-05,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,39,35000,1365000,Selesai
+CTR0954,Sari Sulastri,2025-11-02,2025-11-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,53,23000,1219000,Selesai
+CTR0955,Sri Suryadi,2025-11-03,2025-11-03,LS08,Lauk Satuan,Mujair Goreng,63,20000,1260000,Selesai
+CTR0956,Fauzi Mulyono,2025-11-03,2025-11-07,LS07,Lauk Satuan,Ayam Bali,36,18000,648000,Selesai
+CTR0957,Aminah Hartati,2025-11-03,2025-11-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,29,25000,725000,Selesai
+CTR0958,Suwito Susanti,2025-11-03,2025-11-09,LS07,Lauk Satuan,Ayam Bali,66,18000,1188000,Selesai
+CTR0959,Rohmah Prasetyo,2025-11-03,,LS10,Lauk Satuan,Perkedel Kentang,35,5000,175000,Dibatalkan
+CTR0960,Aminah Sugiarto,2025-11-04,2025-11-09,PN04,Paket Nasi,Nasi Ayam Bakar,64,25000,1600000,Selesai
+CTR0961,Suyanto Hartono,2025-11-04,2025-11-07,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,69,35000,2415000,Selesai
+CTR0962,Heni Slamet,2025-11-04,2025-11-06,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,114,25000,2850000,Selesai
+CTR0963,Suyono Riyanto,2025-11-04,2025-11-11,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,71,23000,1633000,Selesai
+CTR0964,Sari Purnama,2025-11-04,2025-11-07,PN04,Paket Nasi,Nasi Ayam Bakar,32,25000,800000,Selesai
+CTR0965,Kasim Prasetyo,2025-11-05,,LS08,Lauk Satuan,Mujair Goreng,31,20000,620000,Dibatalkan
+CTR0966,Rohmah Santoso,2025-11-05,2025-11-08,LS05,Lauk Satuan,Ayam Kecap,73,17000,1241000,Selesai
+CTR0967,Suwarno Prasetyo,2025-11-06,2025-11-11,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,84,23000,1932000,Selesai
+CTR0968,Suwarno Hadi,2025-11-06,2025-11-11,PN02,Paket Nasi,Nasi Kuning,58,35000,2030000,Selesai
+CTR0969,Rini Sutrisno,2025-11-06,2025-11-11,PN08,Paket Nasi,Nasi Mujair Sambal,73,25000,1825000,Selesai
+CTR0970,Darto Mulyani,2025-11-06,2025-11-10,PN04,Paket Nasi,Nasi Ayam Bakar,28,25000,700000,Selesai
+CTR0971,SMK Telkom Darul Ulum,2025-11-07,2025-11-09,LS12,Lauk Satuan,Tahu Tempe Bacem,63,7000,441000,Selesai
+CTR0972,Kustini Yuliani,2025-11-08,2025-11-11,PN08,Paket Nasi,Nasi Mujair Sambal,85,25000,2125000,Selesai
+CTR0973,Kusno Basuki,2025-11-08,2025-11-10,LS08,Lauk Satuan,Mujair Goreng,63,20000,1260000,Selesai
+CTR0974,Purnomo Astuti,2025-11-08,2025-11-11,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,48,35000,1680000,Selesai
+CTR0975,Dewi Winarni,2025-11-09,2025-11-14,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,101,35000,3535000,Selesai
+CTR0976,Ali Haryanto,2025-11-09,2025-11-11,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,40,23000,920000,Selesai
+CTR0977,Eko Hartono,2025-11-09,2025-11-12,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,2,350000,700000,Selesai
+CTR0978,Mujiono Kusuma,2025-11-09,2025-11-12,LS14,Lauk Satuan,Telur Dadar Tebal,75,10000,750000,Selesai
+CTR0979,Slamet Kusuma,2025-11-09,2025-11-12,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,64,16000,1024000,Selesai
+CTR0980,Sumini Slamet,2025-11-10,2025-11-10,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,70,23000,1610000,Selesai
+CTR0981,Mansur Lestari,2025-11-10,2025-11-13,LS01,Lauk Satuan,Ayam Bakar,37,18000,666000,Selesai
+CTR0982,Rudi Santoso,2025-11-10,2025-11-14,PN08,Paket Nasi,Nasi Mujair Sambal,92,25000,2300000,Selesai
+CTR0983,Aminah Rohmah,2025-11-10,2025-11-13,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,53,23000,1219000,Selesai
+CTR0984,Pardi Wulandari,2025-11-10,2025-11-11,PN07,Paket Nasi,Nasi Rendang Lapis,42,35000,1470000,Selesai
+CTR0985,SMA Darul Ulum 2,2025-11-11,2025-11-12,PN02,Paket Nasi,Nasi Kuning,46,35000,1610000,Selesai
+CTR0986,Rukmini Sukardi,2025-11-11,2025-11-13,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,29,25000,725000,Selesai
+CTR0987,Fauzi Kartini,2025-11-12,2025-11-14,PA01,Paket Acara,Nasi Tumpeng Mini,37,45000,1665000,Selesai
+CTR0988,Sutomo Hidayat,2025-11-12,2025-11-18,LS12,Lauk Satuan,Tahu Tempe Bacem,33,7000,231000,Selesai
+CTR0989,Darmi Saputra,2025-11-12,2025-11-13,LS04,Lauk Satuan,Ayam Teriyaki,64,18000,1152000,Selesai
+CTR0990,Suroso Susanti,2025-11-13,2025-11-16,PN04,Paket Nasi,Nasi Ayam Bakar,104,25000,2600000,Selesai
+CTR0991,Rohmah Hidayat,2025-11-13,2025-11-18,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,3,650000,1950000,Selesai
+CTR0992,Lilis Kurniawan,2025-11-14,2025-11-16,LS09,Lauk Satuan,Pepes Pindang,33,15000,495000,Selesai
+CTR0993,Sukardi Hidayah,2025-11-14,2025-11-16,PN07,Paket Nasi,Nasi Rendang Lapis,115,35000,4025000,Selesai
+CTR0994,Ali Widodo,2025-11-14,2025-11-17,LS07,Lauk Satuan,Ayam Bali,37,18000,666000,Selesai
+CTR0995,MAN 2 Jombang,2025-11-15,2025-11-15,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,170,35000,5950000,Selesai
+CTR0996,Darto Yanto,2025-11-15,2025-11-19,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,55,16000,880000,Selesai
+CTR0997,Sulastri Khasanah,2025-11-15,2025-11-22,PN02,Paket Nasi,Nasi Kuning,63,35000,2205000,Selesai
+CTR0998,Syamsul Purnama,2025-11-17,2025-11-18,PN08,Paket Nasi,Nasi Mujair Sambal,83,25000,2075000,Selesai
+CTR0999,Aminah Saputra,2025-11-17,2025-11-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,69,23000,1587000,Selesai
+CTR1000,Suroso Hadi,2025-11-17,2025-11-19,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,46,25000,1150000,Selesai
+CTR1001,Karti Aminah,2025-11-17,2025-11-19,LS08,Lauk Satuan,Mujair Goreng,62,20000,1240000,Selesai
+CTR1002,Hadi Mulyono,2025-11-18,2025-11-21,LS10,Lauk Satuan,Perkedel Kentang,65,5000,325000,Selesai
+CTR1003,Rudi Kartini,2025-11-18,2025-11-20,LS12,Lauk Satuan,Tahu Tempe Bacem,62,7000,434000,Selesai
+CTR1004,Teguh Winarni,2025-11-18,2025-11-21,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,84,25000,2100000,Selesai
+CTR1005,Herman Kusuma,2025-11-18,2025-11-21,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,32,23000,736000,Selesai
+CTR1006,Mimin Prasetyo,2025-11-19,2025-11-25,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,73,25000,1825000,Selesai
+CTR1007,Ratna Wibowo,2025-11-19,2025-11-20,LS10,Lauk Satuan,Perkedel Kentang,52,5000,260000,Selesai
+CTR1008,MAN 2 Jombang,2025-11-19,2025-11-23,PN07,Paket Nasi,Nasi Rendang Lapis,67,35000,2345000,Selesai
+CTR1009,Munir Kurniawan,2025-11-19,2025-11-21,PN08,Paket Nasi,Nasi Mujair Sambal,65,25000,1625000,Selesai
+CTR1010,Sutomo Aminah,2025-11-19,,PN08,Paket Nasi,Nasi Mujair Sambal,71,25000,1775000,Dibatalkan
+CTR1011,Arif Suryadi,2025-11-20,,PN08,Paket Nasi,Nasi Mujair Sambal,30,25000,750000,Dibatalkan
+CTR1012,Nanik Purnama,2025-11-20,2025-11-21,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR1013,Udin Santoso,2025-11-20,2025-11-23,LS12,Lauk Satuan,Tahu Tempe Bacem,48,7000,336000,Selesai
+CTR1014,Yudi Ningsih,2025-11-20,2025-11-21,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,1,650000,650000,Selesai
+CTR1015,Sri Wati,2025-11-20,2025-11-25,PN03,Paket Nasi,Nasi Bento,87,20000,1740000,Selesai
+CTR1016,Lastri Kusuma,2025-11-20,2025-11-21,PN03,Paket Nasi,Nasi Bento,56,20000,1120000,Selesai
+CTR1017,Darto Hartono,2025-11-20,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,41,35000,1435000,Dibatalkan
+CTR1018,SMA Darul Ulum 2,2025-11-21,2025-11-24,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,93,16000,1488000,Selesai
+CTR1019,Tini Hadi,2025-11-22,2025-11-27,LS08,Lauk Satuan,Mujair Goreng,51,20000,1020000,Selesai
+CTR1020,Kholis Utami,2025-11-22,2025-11-23,PN02,Paket Nasi,Nasi Kuning,49,35000,1715000,Selesai
+CTR1021,Sugi Mulyono,2025-11-22,2025-11-23,PN03,Paket Nasi,Nasi Bento,43,20000,860000,Selesai
+CTR1022,Suwarti Widodo,2025-11-22,2025-11-24,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,43,25000,1075000,Selesai
+CTR1023,Pardi Winarni,2025-11-22,2025-11-24,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,69,23000,1587000,Selesai
+CTR1024,MTs Plus Darul Ulum,2025-11-23,2025-11-25,PN03,Paket Nasi,Nasi Bento,146,20000,2920000,Selesai
+CTR1025,Lilis Wati,2025-11-23,2025-11-26,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,75,23000,1725000,Selesai
+CTR1026,SMA Darul Ulum 3,2025-11-23,,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,70,16000,1120000,Dibatalkan
+CTR1027,Imam Suharto,2025-11-23,2025-11-24,LS11,Lauk Satuan,Bakwan Jagung,57,5000,285000,Selesai
+CTR1028,MA Unggulan Darul Ulum,2025-11-24,2025-11-27,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,170,35000,5950000,Selesai
+CTR1029,SMP Darul Ulum 1,2025-11-24,2025-11-25,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,58,16000,928000,Selesai
+CTR1030,Tono Saputra,2025-11-24,2025-11-28,PN07,Paket Nasi,Nasi Rendang Lapis,75,35000,2625000,Selesai
+CTR1031,SMA Darul Ulum 3,2025-11-24,2025-11-29,PN02,Paket Nasi,Nasi Kuning,124,35000,4340000,Selesai
+CTR1032,Wulan Sugiarto,2025-11-24,2025-11-27,PN03,Paket Nasi,Nasi Bento,27,20000,540000,Selesai
+CTR1033,Herman Basuki,2025-11-24,2025-11-27,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,2,650000,1300000,Selesai
+CTR1034,Misbah Sugiarto,2025-11-24,2025-11-30,PN02,Paket Nasi,Nasi Kuning,28,35000,980000,Selesai
+CTR1035,Ali Setiawan,2025-11-24,2025-11-26,PN04,Paket Nasi,Nasi Ayam Bakar,85,25000,2125000,Selesai
+CTR1036,Didik Basuki,2025-11-25,2025-12-01,PN04,Paket Nasi,Nasi Ayam Bakar,46,25000,1150000,Selesai
+CTR1037,Suhadi Yanto,2025-11-25,2025-11-28,LS07,Lauk Satuan,Ayam Bali,56,18000,1008000,Selesai
+CTR1038,Suwarti Yuliani,2025-11-25,2025-11-29,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,73,23000,1679000,Selesai
+CTR1039,Purnomo Aminah,2025-11-25,2025-11-26,PN04,Paket Nasi,Nasi Ayam Bakar,106,25000,2650000,Selesai
+CTR1040,Hartini Suyanto,2025-11-26,2025-11-27,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR1041,Darto Wibowo,2025-11-26,2025-11-28,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR1042,Wahyu Kartini,2025-11-26,2025-11-28,LS07,Lauk Satuan,Ayam Bali,65,18000,1170000,Selesai
+CTR1043,Sutomo Setiawan,2025-11-26,2025-11-30,LS01,Lauk Satuan,Ayam Bakar,38,18000,684000,Selesai
+CTR1044,Heni Hidayah,2025-11-27,2025-12-01,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,33,16000,528000,Selesai
+CTR1045,Sumarno Purnama,2025-11-27,2025-11-29,LS05,Lauk Satuan,Ayam Kecap,40,17000,680000,Selesai
+CTR1046,Ani Aminah,2025-11-28,2025-11-29,LS13,Lauk Satuan,Telur Balado,52,8000,416000,Selesai
+CTR1047,Purnomo Sutrisno,2025-11-28,2025-12-05,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,2,350000,700000,Selesai
+CTR1048,Wati Widodo,2025-11-28,2025-12-01,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,97,23000,2231000,Selesai
+CTR1049,Ani Purnama,2025-11-28,2025-12-01,PN08,Paket Nasi,Nasi Mujair Sambal,47,25000,1175000,Selesai
+CTR1050,Suminah Winarni,2025-11-28,,PN07,Paket Nasi,Nasi Rendang Lapis,40,35000,1400000,Dibatalkan
+CTR1051,Heru Sutrisno,2025-11-28,2025-12-01,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR1052,Rukmini Wibowo,2025-11-29,2025-12-03,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,88,35000,3080000,Selesai
+CTR1053,SMA Darul Ulum 3,2025-11-29,2025-12-04,LS13,Lauk Satuan,Telur Balado,50,8000,400000,Selesai
+CTR1054,Aminah Purnama,2025-11-29,2025-12-02,LS01,Lauk Satuan,Ayam Bakar,30,18000,540000,Selesai
+CTR1055,Munir Kartini,2025-11-30,2025-12-06,PN08,Paket Nasi,Nasi Mujair Sambal,74,25000,1850000,Selesai
+CTR1056,Rini Suharto,2025-11-30,2025-12-03,LS04,Lauk Satuan,Ayam Teriyaki,37,18000,666000,Selesai
+CTR1057,Eko Mulyani,2025-11-30,2025-12-01,PN07,Paket Nasi,Nasi Rendang Lapis,106,35000,3710000,Selesai
+CTR1058,Suyanto Suharto,2025-11-30,2025-12-03,PN04,Paket Nasi,Nasi Ayam Bakar,84,25000,2100000,Selesai
+CTR1059,Sumini Setiani,2025-12-01,2025-12-05,PA01,Paket Acara,Nasi Tumpeng Mini,25,45000,1125000,Selesai
+CTR1060,Kustini Suyanto,2025-12-01,,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,83,23000,1909000,Dibatalkan
+CTR1061,Yanto Suharto,2025-12-01,2025-12-04,PN02,Paket Nasi,Nasi Kuning,43,35000,1505000,Selesai
+CTR1062,Ismail Kusuma,2025-12-01,2025-12-04,PN08,Paket Nasi,Nasi Mujair Sambal,61,25000,1525000,Selesai
+CTR1063,Pardi Wati,2025-12-01,2025-12-03,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,68,23000,1564000,Selesai
+CTR1064,Suminah Hadi,2025-12-01,2025-12-05,PN03,Paket Nasi,Nasi Bento,46,20000,920000,Selesai
+CTR1065,Heni Santoso,2025-12-02,2025-12-07,PN02,Paket Nasi,Nasi Kuning,29,35000,1015000,Selesai
+CTR1066,Suhadi Widodo,2025-12-02,2025-12-04,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,67,16000,1072000,Selesai
+CTR1067,Rukmini Suryadi,2025-12-02,2025-12-04,LS07,Lauk Satuan,Ayam Bali,44,18000,792000,Selesai
+CTR1068,Suyanto Hartati,2025-12-02,,PN02,Paket Nasi,Nasi Kuning,86,35000,3010000,Dibatalkan
+CTR1069,Sari Handayani,2025-12-02,2025-12-08,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,66,25000,1650000,Selesai
+CTR1070,Wati Purnama,2025-12-02,2025-12-04,LS08,Lauk Satuan,Mujair Goreng,55,20000,1100000,Selesai
+CTR1071,Kusno Kusuma,2025-12-03,2025-12-06,PN03,Paket Nasi,Nasi Bento,80,20000,1600000,Selesai
+CTR1072,Lastri Khasanah,2025-12-03,2025-12-03,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,2,350000,700000,Selesai
+CTR1073,Ani Suwandi,2025-12-03,2025-12-07,PN03,Paket Nasi,Nasi Bento,100,20000,2000000,Selesai
+CTR1074,Nanik Fatimah,2025-12-03,2025-12-05,LS11,Lauk Satuan,Bakwan Jagung,72,5000,360000,Selesai
+CTR1075,Sukardi Sulastri,2025-12-03,2025-12-06,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,61,16000,976000,Selesai
+CTR1076,Ningsih Utami,2025-12-03,2025-12-04,PN08,Paket Nasi,Nasi Mujair Sambal,34,25000,850000,Selesai
+CTR1077,Kasim Suyanto,2025-12-03,2025-12-08,PN02,Paket Nasi,Nasi Kuning,87,35000,3045000,Selesai
+CTR1078,Murni Kusnadi,2025-12-04,2025-12-10,LS05,Lauk Satuan,Ayam Kecap,38,17000,646000,Selesai
+CTR1079,Hartono Suwandi,2025-12-04,2025-12-10,PN02,Paket Nasi,Nasi Kuning,74,35000,2590000,Selesai
+CTR1080,Wawan Riyanto,2025-12-04,2025-12-08,LS11,Lauk Satuan,Bakwan Jagung,57,5000,285000,Selesai
+CTR1081,MAN 2 Jombang,2025-12-04,2025-12-05,LS11,Lauk Satuan,Bakwan Jagung,42,5000,210000,Selesai
+CTR1082,Aminah Wulandari,2025-12-06,2025-12-12,LS10,Lauk Satuan,Perkedel Kentang,63,5000,315000,Selesai
+CTR1083,Hartini Suharti,2025-12-06,2025-12-07,PN04,Paket Nasi,Nasi Ayam Bakar,60,25000,1500000,Selesai
+CTR1084,Sulastri Rohmah,2025-12-06,2025-12-07,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,59,16000,944000,Selesai
+CTR1085,Lastri Suharto,2025-12-06,2025-12-09,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,67,23000,1541000,Selesai
+CTR1086,Herman Khasanah,2025-12-06,2025-12-09,PA03,Paket Acara,Nasi Tumpeng 20 Porsi,4,650000,2600000,Selesai
+CTR1087,Narto Slamet,2025-12-07,2025-12-09,LS05,Lauk Satuan,Ayam Kecap,51,17000,867000,Selesai
+CTR1088,Yuliana Mulyani,2025-12-07,2025-12-08,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,26,35000,910000,Selesai
+CTR1089,Rohmah Suparno,2025-12-07,2025-12-14,PN03,Paket Nasi,Nasi Bento,27,20000,540000,Selesai
+CTR1090,Ani Sutrisno,2025-12-08,,LS07,Lauk Satuan,Ayam Bali,49,18000,882000,Dibatalkan
+CTR1091,MTsN 2 Jombang,2025-12-08,2025-12-10,PN03,Paket Nasi,Nasi Bento,155,20000,3100000,Selesai
+CTR1092,Sri Sulastri,2025-12-08,2025-12-14,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,63,23000,1449000,Selesai
+CTR1093,Misbah Fatimah,2025-12-08,2025-12-09,LS08,Lauk Satuan,Mujair Goreng,68,20000,1360000,Selesai
+CTR1094,Rohmah Hartono,2025-12-08,2025-12-13,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR1095,Teguh Sari,2025-12-09,2025-12-15,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,4,350000,1400000,Selesai
+CTR1096,Yuliana Suryanto,2025-12-09,2025-12-10,PN07,Paket Nasi,Nasi Rendang Lapis,106,35000,3710000,Selesai
+CTR1097,Bambang Kartini,2025-12-09,2025-12-11,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,115,23000,2645000,Selesai
+CTR1098,Narto Santoso,2025-12-09,2025-12-12,LS09,Lauk Satuan,Pepes Pindang,30,15000,450000,Selesai
+CTR1099,Misbah Sukardi,2025-12-10,2025-12-13,LS02,Lauk Satuan,Ayam Goreng Lengkuas,43,18000,774000,Selesai
+CTR1100,Wahyu Rahmawati,2025-12-10,2025-12-17,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,59,16000,944000,Selesai
+CTR1101,Lilis Kusnadi,2025-12-10,2025-12-13,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,85,35000,2975000,Selesai
+CTR1102,Wawan Handayani,2025-12-10,2025-12-13,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,53,25000,1325000,Selesai
+CTR1103,Suminah Sukardi,2025-12-10,2025-12-13,PN07,Paket Nasi,Nasi Rendang Lapis,45,35000,1575000,Selesai
+CTR1104,Sukardi Setiani,2025-12-11,2025-12-13,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,68,25000,1700000,Selesai
+CTR1105,Didik Mulyani,2025-12-12,2025-12-16,LS04,Lauk Satuan,Ayam Teriyaki,34,18000,612000,Selesai
+CTR1106,Rohman Suparno,2025-12-12,2025-12-15,LS04,Lauk Satuan,Ayam Teriyaki,46,18000,828000,Selesai
+CTR1107,Wati Kusuma,2025-12-12,2025-12-14,LS02,Lauk Satuan,Ayam Goreng Lengkuas,47,18000,846000,Selesai
+CTR1108,Wulan Mulyani,2025-12-12,2025-12-14,PA02,Paket Acara,Nasi Tumpeng 10 Porsi,3,350000,1050000,Selesai
+CTR1109,Sari Rohmah,2025-12-13,2025-12-14,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,97,25000,2425000,Selesai
+CTR1110,Ismail Widodo,2025-12-13,2025-12-15,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,54,25000,1350000,Selesai
+CTR1111,MA Unggulan Darul Ulum,2025-12-13,2025-12-19,PN07,Paket Nasi,Nasi Rendang Lapis,122,35000,4270000,Selesai
+CTR1112,Sri Santoso,2025-12-13,,LS14,Lauk Satuan,Telur Dadar Tebal,47,10000,470000,Dibatalkan
+CTR1113,Joko Slamet,2025-12-14,2025-12-16,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,80,23000,1840000,Selesai
+CTR1114,Kustini Purnama,2025-12-14,2025-12-18,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,3,950000,2850000,Selesai
+CTR1115,Siti Prasetyo,2025-12-14,2025-12-16,PN04,Paket Nasi,Nasi Ayam Bakar,79,25000,1975000,Selesai
+CTR1116,Suwito Sulastri,2025-12-15,2025-12-16,PN08,Paket Nasi,Nasi Mujair Sambal,27,25000,675000,Selesai
+CTR1117,Kasim Mulyani,2025-12-15,2025-12-16,PN03,Paket Nasi,Nasi Bento,110,20000,2200000,Selesai
+CTR1118,Marni Winarni,2025-12-15,2025-12-20,LS02,Lauk Satuan,Ayam Goreng Lengkuas,42,18000,756000,Selesai
+CTR1119,SMK Telkom Darul Ulum,2025-12-16,2025-12-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,79,23000,1817000,Selesai
+CTR1120,SMA Darul Ulum 2,2025-12-16,2025-12-21,LS11,Lauk Satuan,Bakwan Jagung,48,5000,240000,Selesai
+CTR1121,Tatik Wibowo,2025-12-17,2025-12-19,LS12,Lauk Satuan,Tahu Tempe Bacem,30,7000,210000,Selesai
+CTR1122,Ida Wati,2025-12-17,2025-12-24,PN04,Paket Nasi,Nasi Ayam Bakar,46,25000,1150000,Selesai
+CTR1123,Tutik Fatimah,2025-12-17,2025-12-21,LS12,Lauk Satuan,Tahu Tempe Bacem,37,7000,259000,Selesai
+CTR1124,Lilis Hartati,2025-12-17,2025-12-19,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,70,23000,1610000,Selesai
+CTR1125,SMP Darul Ulum 1,2025-12-18,2025-12-21,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,161,25000,4025000,Selesai
+CTR1126,Tutik Setiani,2025-12-18,2025-12-21,LS13,Lauk Satuan,Telur Balado,40,8000,320000,Selesai
+CTR1127,Hasan Sutrisno,2025-12-18,2025-12-19,LS08,Lauk Satuan,Mujair Goreng,45,20000,900000,Selesai
+CTR1128,Slamet Aminah,2025-12-18,2025-12-21,LS07,Lauk Satuan,Ayam Bali,34,18000,612000,Selesai
+CTR1129,Rohmah Khasanah,2025-12-19,2025-12-21,LS11,Lauk Satuan,Bakwan Jagung,59,5000,295000,Selesai
+CTR1130,Aminah Mulyono,2025-12-19,2025-12-20,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,46,23000,1058000,Selesai
+CTR1131,SMA Darul Ulum 2,2025-12-19,2025-12-20,PN02,Paket Nasi,Nasi Kuning,115,35000,4025000,Selesai
+CTR1132,Wahyu Widodo,2025-12-19,2025-12-21,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR1133,Lilis Rohman,2025-12-19,2025-12-22,LS01,Lauk Satuan,Ayam Bakar,31,18000,558000,Selesai
+CTR1134,Sutomo Sari,2025-12-20,2025-12-26,PN07,Paket Nasi,Nasi Rendang Lapis,46,35000,1610000,Selesai
+CTR1135,Wulan Wulandari,2025-12-20,2025-12-24,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,28,23000,644000,Selesai
+CTR1136,Indah Yuliani,2025-12-21,2025-12-25,LS02,Lauk Satuan,Ayam Goreng Lengkuas,40,18000,720000,Selesai
+CTR1137,Lastri Wulandari,2025-12-21,2025-12-24,PN03,Paket Nasi,Nasi Bento,29,20000,580000,Selesai
+CTR1138,Eko Wati,2025-12-21,2025-12-21,PN08,Paket Nasi,Nasi Mujair Sambal,51,25000,1275000,Selesai
+CTR1139,Ningsih Rohmah,2025-12-21,2025-12-24,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,48,23000,1104000,Selesai
+CTR1140,Ningsih Setiani,2025-12-22,2025-12-24,LS12,Lauk Satuan,Tahu Tempe Bacem,62,7000,434000,Selesai
+CTR1141,Ismail Slamet,2025-12-22,2025-12-26,LS05,Lauk Satuan,Ayam Kecap,37,17000,629000,Selesai
+CTR1142,SMA Darul Ulum 3,2025-12-22,2025-12-26,LS01,Lauk Satuan,Ayam Bakar,52,18000,936000,Selesai
+CTR1143,Yuliana Santoso,2025-12-23,2025-12-25,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,95,23000,2185000,Selesai
+CTR1144,Wulan Suparno,2025-12-23,2025-12-26,LS09,Lauk Satuan,Pepes Pindang,63,15000,945000,Selesai
+CTR1145,Wahyu Khasanah,2025-12-24,2025-12-26,LS05,Lauk Satuan,Ayam Kecap,54,17000,918000,Selesai
+CTR1146,Murni Suyanto,2025-12-24,2025-12-31,PN04,Paket Nasi,Nasi Ayam Bakar,81,25000,2025000,Selesai
+CTR1147,Murni Suharto,2025-12-24,2025-12-26,LS14,Lauk Satuan,Telur Dadar Tebal,40,10000,400000,Selesai
+CTR1148,Rohmah Suryadi,2025-12-25,2025-12-29,PN02,Paket Nasi,Nasi Kuning,81,35000,2835000,Selesai
+CTR1149,Sari Hidayat,2025-12-25,2025-12-27,PN02,Paket Nasi,Nasi Kuning,72,35000,2520000,Selesai
+CTR1150,Kasim Sugiarto,2025-12-25,2025-12-30,PN08,Paket Nasi,Nasi Mujair Sambal,55,25000,1375000,Selesai
+CTR1151,Suminah Kartini,2025-12-25,2025-12-29,PN08,Paket Nasi,Nasi Mujair Sambal,75,25000,1875000,Selesai
+CTR1152,Yudi Haryanto,2025-12-25,,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,31,23000,713000,Dibatalkan
+CTR1153,Wati Haryanto,2025-12-25,2025-12-28,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,82,23000,1886000,Selesai
+CTR1154,Sutomo Sugiarto,2025-12-26,,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,48,25000,1200000,Diproses
+CTR1155,Ratna Sugiarto,2025-12-26,2025-12-27,LS12,Lauk Satuan,Tahu Tempe Bacem,48,7000,336000,Selesai
+CTR1156,Darto Ningsih,2025-12-26,2025-12-29,PA01,Paket Acara,Nasi Tumpeng Mini,38,45000,1710000,Selesai
+CTR1157,Wawan Wulandari,2025-12-26,,LS01,Lauk Satuan,Ayam Bakar,51,18000,918000,Diproses
+CTR1158,Sukardi Kartini,2025-12-26,2025-12-29,LS09,Lauk Satuan,Pepes Pindang,60,15000,900000,Selesai
+CTR1159,Herman Setiawan,2025-12-26,,PN04,Paket Nasi,Nasi Ayam Bakar,77,25000,1925000,Diproses
+CTR1160,Ali Slamet,2025-12-26,,PN04,Paket Nasi,Nasi Ayam Bakar,67,25000,1675000,Diproses
+CTR1161,Sutrisno Utami,2025-12-26,2025-12-30,PN08,Paket Nasi,Nasi Mujair Sambal,74,25000,1850000,Selesai
+CTR1162,Slamet Suwandi,2025-12-26,,PN04,Paket Nasi,Nasi Ayam Bakar,33,25000,825000,Diproses
+CTR1163,MTsN 2 Jombang,2025-12-26,2025-12-28,LS03,Lauk Satuan,Ayam Goreng Upin-Ipin,79,16000,1264000,Selesai
+CTR1164,Mulyono Riyanto,2025-12-26,,LS12,Lauk Satuan,Tahu Tempe Bacem,50,7000,350000,Diproses
+CTR1165,Sumarno Sutrisno,2025-12-27,2025-12-31,LS11,Lauk Satuan,Bakwan Jagung,45,5000,225000,Selesai
+CTR1166,Lastri Kartini,2025-12-27,,PN02,Paket Nasi,Nasi Kuning,41,35000,1435000,Diproses
+CTR1167,Suyono Rohman,2025-12-27,2025-12-29,LS06,Lauk Satuan,Rendang Daging,34,28000,952000,Selesai
+CTR1168,Wawan Sukardi,2025-12-27,2025-12-30,PN04,Paket Nasi,Nasi Ayam Bakar,37,25000,925000,Selesai
+CTR1169,Suminah Rahmawati,2025-12-27,2025-12-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,75,25000,1875000,Selesai
+CTR1170,Endang Sulastri,2025-12-27,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,25,35000,875000,Diproses
+CTR1171,Ningsih Kusuma,2025-12-27,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,32,35000,1120000,Diproses
+CTR1172,Hasan Yuliani,2025-12-27,2025-12-31,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,68,25000,1700000,Selesai
+CTR1173,Fauzi Hidayat,2025-12-28,,PN07,Paket Nasi,Nasi Rendang Lapis,88,35000,3080000,Dibatalkan
+CTR1174,SMA Darul Ulum 2,2025-12-28,2025-12-29,PN04,Paket Nasi,Nasi Ayam Bakar,143,25000,3575000,Selesai
+CTR1175,Munir Rahmawati,2025-12-28,2025-12-28,PN02,Paket Nasi,Nasi Kuning,109,35000,3815000,Selesai
+CTR1176,SMK Telkom Darul Ulum,2025-12-28,2025-12-29,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,133,25000,3325000,Selesai
+CTR1177,Yudi Suryadi,2025-12-28,,PN07,Paket Nasi,Nasi Rendang Lapis,69,35000,2415000,Diproses
+CTR1178,Mujiono Wulandari,2025-12-28,2025-12-28,PN07,Paket Nasi,Nasi Rendang Lapis,54,35000,1890000,Selesai
+CTR1179,Teguh Hadi,2025-12-28,,PN01,Paket Nasi,Nasi Kotak Ayam Kampung,106,35000,3710000,Diproses
+CTR1180,Ratna Kusnadi,2025-12-28,2025-12-31,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,2,950000,1900000,Selesai
+CTR1181,Sri Susanti,2025-12-28,2025-12-30,PN02,Paket Nasi,Nasi Kuning,82,35000,2870000,Selesai
+CTR1182,Dewi Sugiarto,2025-12-28,2025-12-31,PN02,Paket Nasi,Nasi Kuning,67,35000,2345000,Selesai
+CTR1183,Eko Purnama,2025-12-29,,LS14,Lauk Satuan,Telur Dadar Tebal,68,10000,680000,Diproses
+CTR1184,Dewi Sulastri,2025-12-29,2025-12-31,PN03,Paket Nasi,Nasi Bento,53,20000,1060000,Selesai
+CTR1185,Ida Basuki,2025-12-29,2025-12-30,PA04,Paket Acara,Nasi Tumpeng 30 Porsi,1,950000,950000,Selesai
+CTR1186,Suwarti Hadi,2025-12-29,,PN07,Paket Nasi,Nasi Rendang Lapis,110,35000,3850000,Diproses
+CTR1187,Murni Purnama,2025-12-29,2025-12-31,LS06,Lauk Satuan,Rendang Daging,65,28000,1820000,Selesai
+CTR1188,Yuliana Setiani,2025-12-30,,PN08,Paket Nasi,Nasi Mujair Sambal,34,25000,850000,Diproses
+CTR1189,Rohman Rohmah,2025-12-30,,PN05,Paket Nasi,Nasi Ayam Goreng Lengkuas,49,25000,1225000,Diproses
+CTR1190,Syamsul Sutrisno,2025-12-30,2025-12-31,LS07,Lauk Satuan,Ayam Bali,47,18000,846000,Selesai
+CTR1191,Wahyu Hartono,2025-12-30,2025-12-31,LS11,Lauk Satuan,Bakwan Jagung,30,5000,150000,Selesai
+CTR1192,Sutrisno Suryadi,2025-12-30,,LS08,Lauk Satuan,Mujair Goreng,30,20000,600000,Diproses
+CTR1193,Suwarti Riyanto,2025-12-30,,PN06,Paket Nasi,Nasi Ayam Goreng Upin-Ipin,33,23000,759000,Diproses
+CTR1194,Mimin Hadi,2025-12-30,2025-12-31,LS12,Lauk Satuan,Tahu Tempe Bacem,74,7000,518000,Selesai
+CTR1195,Ali Riyanto,2025-12-30,2025-12-31,PN08,Paket Nasi,Nasi Mujair Sambal,51,25000,1275000,Selesai
+CTR1196,Karti Mulyani,2025-12-30,,PN03,Paket Nasi,Nasi Bento,88,20000,1760000,Diproses
+CTR1197,Sulastri Hidayah,2025-12-30,2025-12-31,PN03,Paket Nasi,Nasi Bento,72,20000,1440000,Selesai
+CTR1198,Sugi Astuti,2025-12-31,,LS11,Lauk Satuan,Bakwan Jagung,68,5000,340000,Diproses
+CTR1199,Heru Suharto,2025-12-31,,PN07,Paket Nasi,Nasi Rendang Lapis,109,35000,3815000,Dibatalkan
+CTR1200,Suminah Astuti,2025-12-31,,PN07,Paket Nasi,Nasi Rendang Lapis,35,35000,1225000,Diproses

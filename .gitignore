@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and environments
+.pytest_cache/
+.ipynb_checkpoints/
+env/
+venv/
+ENV/
+.venv/
+
+# Streamlit specific (Secrets & temporary state)
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
